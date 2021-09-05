@@ -2,12 +2,9 @@
 = Publications
 
 
-== Under review
-- *A. Padoan*, On model reduction by least squares moment matching, CDC.
-- *A. Padoan*, F. Forni, R. Sepulchre, Balanced truncation for model reduction of biological oscillators, Biological Cybernetics.
-
 == Journal papers
-- *A. Padoan*, F. Forni, R. Sepulchre, Model reduction of dominant feedback systems, Automatica. [https://www.dropbox.com/s/bcxwmuzw13umu0z/root.pdf?dl=0 PDF]
+- *A. Padoan*, F. Forni, R. Sepulchre, Balanced truncation for model reduction of biological oscillators, Biological Cybernetics, 2021. [https://link.springer.com/content/pdf/10.1007/s00422-021-00888-4.pdf PDF]
+- *A. Padoan*, F. Forni, R. Sepulchre, Model reduction of dominant feedback systems, Automatica, 2021. [https://www.dropbox.com/s/bcxwmuzw13umu0z/root.pdf?dl=0 PDF]
 - *A. Padoan*, A. Astolfi, Singularities and moments of nonlinear systems, IEEE TAC, 2019. [https://www.dropbox.com/s/00ujshs4s4shkqa/TAC19-APAA.pdf?dl=0 PDF]
 - *A. Padoan*, A. Astolfi, Moments of random variables: a systems-theoretic interpretation, IEEE TAC, 2019. [https://www.dropbox.com/s/xt7f6zwy6aa7mae/TAC18-APAA-MRV-final.pdf?dl=0 PDF]
 - *A. Padoan*, G. Scarciotti, A. Astolfi, A geometric characterisation of the persistence of excitation condition for the solutions of autonomous systems, IEEE TAC, 2017. [https://www.dropbox.com/s/4ps3b4ua88bczp6/TAC16%20AP-GS-AA%20-%20paper.pdf?dl=0 PDF]
@@ -15,7 +12,8 @@
 
 
 == Conference papers
-- *A. Padoan*, F. Forni, R. Sepulchre, Model reduction by balanced truncation for dominant Lure systems, IFAC, 2020.  [https://arxiv.org/abs/2005.08241 arXiv2]
+- *A. Padoan*, On model reduction by least squares moment matching, CDC, 2021, accepted.
+- *A. Padoan*, F. Forni, R. Sepulchre, Model reduction by balanced truncation for dominant Lure systems, IFAC, 2020.  [https://arxiv.org/abs/2005.08241 arXiv]
 - *A. Padoan*, F. Forni, R. Sepulchre, The $\mathcal{H}_{\infty,p}$ norm as the differential gain of a $p$-dominant system, CDC, 2019. [https://arxiv.org/abs/1909.12202 arXiv]
 - *A. Padoan*, F. Forni, R. Sepulchre, Dominance margins for feedback systems, NOLCOS, 2019. [https://arxiv.org/abs/1905.13170 arXiv]
 - *A. Padoan*, A. Astolfi, On the notion of moment at a pole of a nonlinear system, MTNS, 2018. [https://www.dropbox.com/s/j845bvgfkor5100/MTNS18-APAA-final.pdf?dl=0 arXiv]
