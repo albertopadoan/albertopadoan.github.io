@@ -12,7 +12,7 @@
 
 
 == Conference papers
-- *A. Padoan*, On model reduction by least squares moment matching, CDC, 2021, accepted.
+- *A. Padoan*, On model reduction by least squares moment matching, CDC, 2021. [https://www.dropbox.com/s/m08jcbsrklh23gt/CDC21-AP.pdf?dl=0 PDF] [https://github.com/albertopadoan/LSMR code]
 - *A. Padoan*, F. Forni, R. Sepulchre, Model reduction by balanced truncation for dominant Lure systems, IFAC, 2020.  [https://arxiv.org/abs/2005.08241 arXiv]
 - *A. Padoan*, F. Forni, R. Sepulchre, The $\mathcal{H}_{\infty,p}$ norm as the differential gain of a $p$-dominant system, CDC, 2019. [https://arxiv.org/abs/1909.12202 arXiv]
 - *A. Padoan*, F. Forni, R. Sepulchre, Dominance margins for feedback systems, NOLCOS, 2019. [https://arxiv.org/abs/1905.13170 arXiv]
