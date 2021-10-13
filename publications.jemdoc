@@ -1,6 +1,9 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 = Publications
 
+== Preprints
+- *A. Padoan*, Model reduction by least squares moment matching for linear and nonlinear systems, IEEE TAC, under review. [https://arxiv.org/abs/2110.06072 arXiv] [https://github.com/albertopadoan/LSMR code]
+
 
 == Journal papers
 - *A. Padoan*, F. Forni, R. Sepulchre, Balanced truncation for model reduction of biological oscillators, Biological Cybernetics, 2021. [https://link.springer.com/content/pdf/10.1007/s00422-021-00888-4.pdf PDF]
