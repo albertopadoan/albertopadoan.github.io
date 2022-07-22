@@ -1,28 +1,47 @@
 # jemdoc: menu{MENU}{research.html}, nofooter
 = Research
 
+== Data-driven control
+~~~
+{}{img_left}{data.png}{alt text}{320}{251.75}{}
+
+Learning, adapting, and inferring decisions directly from data is a fundamental problem in science and engineering. 
+
+The advent of large data sets, improved computational resources and the ongoing AI revolution have recently triggered a renewed appreciation for data-driven approaches to the problem, where classical models are replaced by data matrices. 
+# The problem is well-understood for deterministic, linear, time-invariant systems, but still widely open for real-time, safety-critical, complex systems.
+
+In collaboration with a range of researchers, I am currently delving into the universe of data-driven control through the unifying lens of (differential) geometry. 
+~~~
+
 == Robust dominance theory
 ~~~
 {}{img_left}{dominance.png}{alt text}{320}{251.75}{}
 
 Robustness is a classical concept in control engineering. A behavior is robust if it persists under the effect of exogenous perturbations or parametric uncertainty. 
 
-Enforcing robust stability of a single equilibrium is nowadays a well-understood task. However, tractable tools to design robust non-equilibrium behaviors are lacking, despite multistability and oscillations being pervasive in biology and robotics.
+Enforcing robust stability of a single equilibrium is nowadays a well-understood task. However, tractable tools to design robust non-equilibrium behaviors are lacking, despite non-equilibrium behaviors being pervasive in physics, biology and robotics, among others.
 
-Robust dominance theory is an interconnection theory geared towards systems that switch and oscillate. The theory demonstrates that behaviors away from equilibrium can be engineered using familiar frequency domain and convex optimization tools. 
+Working on robust dominance theory, I have contributed to developing an interconnection theory geared towards systems that switch and oscillate. The theory demonstrates that behaviors away from equilibrium can be engineered using familiar frequency domain and convex optimization tools. 
 ~~~
 
-== A geometric approach to modelling and approximation
+== Modelling and approximation of nonlinear dynamical systems
 ~~~
 {}{img_left}{manifold.png}{alt text}{320}{251.75}{}
 
-With the rapid advance of computer and communication technologies, mathematical models of dynamical systems are playing an increasingly important role for analysis and design. The need of precision frequently leads to the inclusion of a large number of variables, thus posing a serious obstacle to achieving accurate simulations. Model reduction methods alleviate this issue by constructing simplified models that capture prescribed features of the original system, while system identification methods allow to build these models directly from measured data. 
+With the rapid advance of computer and artificial intelligence technologies, mathematical models of dynamical systems are playing an increasingly important role for analysis and design. The need of precision frequently leads to the inclusion of a large number of variables, thus posing a serious obstacle to achieving accurate simulations. Model reduction methods alleviate this issue by constructing simplified models that capture prescribed features of the original system, while system identification methods allow to build these models directly from measured data. 
 
-Geometric modelling and approximation deal with model reduction and system identification problems using the differential geometric approach to nonlinear systems, which has significantly impacted on both theory and applications in many control problems.
+In a quest towards tractable solutions, I am exploring these issues with multiple collaborators using the most disparate tools, including differential geometry, dissipativity theory and monotone operator theory.
 ~~~
+
+
 
 == Collaborators
 - [https://www.imperial.ac.uk/people/a.astolfi A. Astolfi] - Imperial College London and University of Rome "Tor Vergata"
 - [https://www.imperial.ac.uk/people/g.scarciotti G. Scarciotti] - Imperial College London  
 - [https://sites.google.com/site/rsepulchre/ R. Sepulchre] - University of Cambridge
 - [https://sites.google.com/site/fulvioforni/ F. Forni] - University of Cambridge 
+- [https://www.tchaffey.com/ T. Chaffey] - University of Cambridge 
+- [http://people.ee.ethz.ch/~floriand/ Florian Dörfler] - ETH Zürich
+- [https://control.ee.ethz.ch/people/profile.john-lygeros.html John Lygeros] - ETH Zürich
+- [http://people.ee.ethz.ch/~jcoulson/ Jeremy Coulson] - ETH Zürich #
+- [https://henkvanwaarde.github.io/ Henk van Waarde] - University of Groningeng #
