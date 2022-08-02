@@ -2,10 +2,11 @@
 = Publications
 
 == Preprints
-- *A. Padoan*, Model reduction by least squares moment matching for linear and nonlinear systems, IEEE TAC, under review. [https://arxiv.org/abs/2110.06072 arXiv] [https://github.com/albertopadoan/LSMR code]
-- T. Chaffey, *A. Padoan*, Circuit Model Reduction with Scaled Relative Graphs, CDC22. [https://arxiv.org/abs/2204.01434 arXiv]
-- *A. Padoan*, J. Coulson, H. J. van Waarde, J. Lygeros, F. Dörfler, Behavioral uncertainty quantification for data-driven control, CDC22. [https://arxiv.org/abs/2204.02671 arXiv]
 
+- J. Berberich, A. Iannelli, *A. Padoan*, J. Coulson, F. Dörfler, F. Allgöwer, A quantitative and constructive proof of Willems' Fundamental Lemma and its implications, L-CSS/ACC23. [https://arxiv.org/abs/2208.00905 arXiv]
+- T. Chaffey, *A. Padoan*, Circuit model reduction with scaled relative graphs, CDC22. [https://arxiv.org/abs/2204.01434 arXiv]
+- *A. Padoan*, J. Coulson, H. J. van Waarde, J. Lygeros, F. Dörfler, Behavioral uncertainty quantification for data-driven control, CDC22. [https://arxiv.org/abs/2204.02671 arXiv]
+- *A. Padoan*, Model reduction by least squares moment matching for linear and nonlinear systems, IEEE TAC, under review. [https://arxiv.org/abs/2110.06072 arXiv] [https://github.com/albertopadoan/LSMR code]
 
 == Journal papers
 - *A. Padoan*, F. Forni, R. Sepulchre, Balanced truncation for model reduction of biological oscillators, Biological Cybernetics, 2021. [https://link.springer.com/content/pdf/10.1007/s00422-021-00888-4.pdf PDF]
