@@ -10,7 +10,7 @@ Learning, adapting, and inferring decisions directly from data is a fundamental 
 The advent of large data sets, improved computational resources and the ongoing AI revolution have recently triggered a renewed appreciation for data-driven approaches to the problem, where classical models are replaced by data matrices. 
 # The problem is well-understood for deterministic, linear, time-invariant systems, but still widely open for real-time, safety-critical, complex systems.
 
-In collaboration with a range of researchers, I am currently delving into the universe of data-driven control through the unifying lens of (differential) geometry. 
+I am currently delving into the universe of data-driven control through the lens of (differential) geometry, convex optimization, and behavioral system theory. 
 ~~~
 
 == Robust dominance theory
@@ -44,4 +44,7 @@ In a quest towards tractable solutions, I am exploring these issues with multipl
 - [http://people.ee.ethz.ch/~floriand/ Florian Dörfler] - ETH Zürich
 - [https://control.ee.ethz.ch/people/profile.john-lygeros.html John Lygeros] - ETH Zürich
 - [http://people.ee.ethz.ch/~jcoulson/ Jeremy Coulson] - ETH Zürich #
-- [https://henkvanwaarde.github.io/ Henk van Waarde] - University of Groningeng #
+- [https://henkvanwaarde.github.io/ Henk van Waarde] - University of Groningen #
+- [https://www.ist.uni-stuttgart.de/institute/team/Berberich/ J. Berberich] - University of Stuttgart #
+- [https://www.ist.uni-stuttgart.de/institute/team/Iannelli/ A. Iannelli] - University of Stuttgart #
+- [https://www.uni-stuttgart.de/en/press/experts/Prof.-Frank-Allgoewer/ F. Allgöwer ] - University of Stuttgart #
