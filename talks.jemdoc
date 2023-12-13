@@ -1,6 +1,10 @@
 # jemdoc: menu{MENU}{talks.html}, nofooter
 = Talks
 
+== 2023
+- Data-driven representations of conical, convex, and affine behaviors, CDC, Singapore. [https://www.dropbox.com/scl/fi/zdpydc7s2u9i7qd8g4u2o/2023-11-27-CDC1_AP.pdf?rlkey=9vf4hfcfj18b35ruotlxd52c4&dl=0 PDF]
+
+
 == 2022
 - Behavioral uncertainty quantification for data-driven control, CDC, Cancun, Mexico. [https://www.dropbox.com/s/e7bpicik2f0vcqn/AP_cdc22.pdf?dl=0 PDF]
 - Least squares moment matching for linear and nonlinear systems, University of Padova, Padova, Italy. [https://www.dropbox.com/s/quet6ylr2g7951b/ETHpt.pdf?dl=0 PDF]
