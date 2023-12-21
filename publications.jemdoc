@@ -3,8 +3,6 @@
 
 == Preprints 
 - A. Rimoldi, C. Cenedese, *A. Padoan*, F. Dörfler, J. Lygeros, Urban traffic congestion control: a DeePC change, ECC24. [https://arxiv.org/abs/2311.09851 arXiv]
-- *A. Padoan*, F. Dörfler, J. Lygeros, Data-driven representations of conical, convex, and affine behaviors, CDC23. [http://arxiv.org/abs/2310.15354 arXiv]
-- *A. Padoan*, J. Coulson, F. Dörfler, Controller implementability: a data-driven approach, CDC23. [http://arxiv.org/abs/2310.15347 arXiv]
 
 == Journal papers
 - *A. Padoan*, Model reduction by least squares moment matching for linear and nonlinear systems, IEEE TAC, 2023. [https://arxiv.org/abs/2110.06072 arXiv] [https://github.com/albertopadoan/LSMR code]
@@ -16,6 +14,8 @@
 - *A. Padoan*, A. Astolfi, A note on delay coordinates for locally observable analytic systems, IEEE TAC, 2015. [https://www.dropbox.com/s/xy20xrwqqjgisu9/TAC16-APAA.pdf?dl=0 PDF]
 
 == Conference papers
+- *A. Padoan*, F. Dörfler, J. Lygeros, Data-driven representations of conical, convex, and affine behaviors, CDC23. [http://arxiv.org/abs/2310.15354 arXiv]
+- *A. Padoan*, J. Coulson, F. Dörfler, Controller implementability: a data-driven approach, CDC23. [http://arxiv.org/abs/2310.15347 arXiv]
 - J. Berberich, A. Iannelli, *A. Padoan*, J. Coulson, F. Dörfler, F. Allgöwer, A quantitative and constructive proof of Willems' Fundamental Lemma and its implications, ACC23. [https://arxiv.org/abs/2208.00905 arXiv]
 - T. Chaffey, *A. Padoan*, Circuit model reduction with scaled relative graphs, CDC22. [https://arxiv.org/abs/2204.01434 arXiv]
 - *A. Padoan*, J. Coulson, H. J. van Waarde, J. Lygeros, F. Dörfler, Behavioral uncertainty quantification for data-driven control, CDC22. [https://arxiv.org/abs/2204.02671 arXiv]
