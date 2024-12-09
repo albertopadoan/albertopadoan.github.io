@@ -1,8 +1,10 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
+\n
 = Publications
 
 == Preprints 
-- *A. Padoan*, J. Coulson, H. J. van Waarde, Data-driven dissipativity analysis of optimization algorithms, CDC24. 
+-  A. Sasfi, *A. Padoan*, I. Markovsky, F. Dörfler, Subspace tracking for online system identification, IEEE TAC.
+
 
 == Journal papers
 - *A. Padoan*, Model reduction by least squares moment matching for linear and nonlinear systems, IEEE TAC, 2023. [https://arxiv.org/abs/2110.06072 arXiv] [https://github.com/albertopadoan/LSMR code]
