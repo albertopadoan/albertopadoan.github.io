@@ -3,8 +3,8 @@
 = Publications
 
 == Preprints 
--  A. Sasfi, *A. Padoan*, I. Markovsky, F. Dörfler, Subspace tracking for online system identification, IEEE TAC.
-
+- A. Sasfi, *A. Padoan*, I. Markovsky, F. Dörfler, Subspace tracking for online system identification, IEEE TAC.
+- M. Cummins, *A. Padoan*, K. Moffat, J. Lygeros, F. Dörfler, DeePC-Hunt: Data-enabled Predictive Control Hyperparameter Tuning via Differentiable Optimization, L4DC.
 
 == Journal papers
 - *A. Padoan*, Model reduction by least squares moment matching for linear and nonlinear systems, IEEE TAC, 2023. [https://arxiv.org/abs/2110.06072 arXiv] [https://github.com/albertopadoan/LSMR code]
