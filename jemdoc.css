@@ -35,7 +35,7 @@ body {
     padding-left: 8px;
 	padding-right: 8px;
 	font-size: 14px;
-	max-width: 850px;
+	max-width: 1200px;  /* Increased from 850px */
     line-height:1.4;
     color: var(--content-text);
     padding:0 10px;
@@ -185,7 +185,7 @@ p {
 	margin-bottom: 0.8em;
 	padding: 0;
 	line-height: 1.4;
-	width: 650px;
+	width: 900px;  /* Increased from 650px */
 }
 
 pre {
