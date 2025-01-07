@@ -1,7 +1,5 @@
 # jemdoc: menu{MENU}{talks.html}, nofooter
 \n
-= Talks
-
 
 == 2024
 - Data-driven dissipativity analysis of optimization algorithms, [https://automatica.dei.unipd.it/32nd-ernsi-main-page/ ERNSI'24], Venice, Italy. 

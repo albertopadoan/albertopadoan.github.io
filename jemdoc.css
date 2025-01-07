@@ -158,8 +158,9 @@ h1, h2, h3 {
     border-bottom-style: solid;
     border-bottom-color: var(--link-underline);
 	font-weight: normal;
-	/*font-weight: normal;*/ 
 }
+
+
 
 h1 {
 	font-size: 135%;
