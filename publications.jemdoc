@@ -2,8 +2,11 @@
 \n
 
 == Preprints 
+- *A. Padoan*, J. Coulson,  Distances between finite-horizon linear behaviors, L-CSS, accepted.
+- *A. Padoan*, Least squares model reduction: a two-stage system-theoretic interpretation, NOLCOS, accepted.
 - A. Sasfi, *A. Padoan*, I. Markovsky, F. Dörfler, Subspace tracking for online system identification, IEEE TAC. [https://arxiv.org/abs/2412.09052 arXiv]
 - M. Cummins, *A. Padoan*, K. Moffat, J. Lygeros, F. Dörfler, DeePC-Hunt: Data-enabled Predictive Control Hyperparameter Tuning via Differentiable Optimization, L4DC. [https://arxiv.org/abs/2412.06481 arXiv] 
+
 
 == Journal papers
 - *A. Padoan*, Model reduction by least squares moment matching for linear and nonlinear systems, IEEE TAC, 2023. [https://arxiv.org/abs/2110.06072 arXiv] [https://github.com/albertopadoan/LSMR code]

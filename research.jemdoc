@@ -7,21 +7,20 @@
 
 Learning, adapting, and inferring decisions directly from data is a fundamental problem in science and engineering. 
 
-The advent of large data sets, improved computational resources and the ongoing AI revolution have recently triggered a renewed appreciation for data-driven approaches to the problem, where classical models are replaced by data matrices. 
-# The problem is well-understood for deterministic, linear, time-invariant systems, but still widely open for real-time, safety-critical, complex systems.
+The advent of large data sets, improved computational resources and the ongoing AI revolution have recently triggered a renewed appreciation for data-driven approaches to the problem, where classical models are replaced by system behaviors. 
 
-I am currently delving into the universe of data-driven control through the lens of (differential) geometry, convex optimization, and behavioral system theory. 
+I am currently delving into the universe of data-driven control through the lens of geometry, optimization, and behavioral system theory. 
 ~~~
 
 == Dominance theory
 ~~~
 {}{img_left}{dominance.png}{alt text}{320}{251.75}{}
 
-Robustness is a classical concept in control engineering. A behavior is robust if it persists under the effect of exogenous perturbations or parametric uncertainty. 
+Robustness is a foundational concept in control engineering: a behavior is robust if it persists under the effect of exogenous perturbations or parametric uncertainty. 
 
-Enforcing robust stability of a single equilibrium is nowadays a well-understood task. However, tractable tools to design robust non-equilibrium behaviors are lacking, despite non-equilibrium behaviors being pervasive in physics, biology and robotics, among others.
+While robust stabilization of equilibria is well-understood, the design of robust non-equilibrium behaviors still lacks tractable tools—despite their ubiquity in physics, biology, and robotics.
 
-Working on robust dominance theory, I have contributed to developing an interconnection theory geared towards systems that switch and oscillate. The theory demonstrates that behaviors away from equilibrium can be engineered using familiar frequency domain and convex optimization tools. 
+I have helped develop an interconnection theory tailored to systems that switch or oscillate, showing that such behaviors can be designed using classical frequency-domain and convex optimization techniques.
 ~~~
 
 == Modelling and approximation of nonlinear dynamical systems
@@ -30,7 +29,7 @@ Working on robust dominance theory, I have contributed to developing an intercon
 
 With the rapid advance of computer and artificial intelligence technologies, mathematical models of dynamical systems are playing an increasingly important role for analysis and design. The need of precision frequently leads to the inclusion of a large number of variables, thus posing a serious obstacle to achieving accurate simulations. Model reduction methods alleviate this issue by constructing simplified models that capture prescribed features of the original system, while system identification methods allow to build these models directly from measured data. 
 
-In a quest towards tractable solutions, I am exploring these issues with multiple collaborators using the most disparate tools, including differential geometry, dissipativity theory and monotone operator theory.
+In a quest towards tractable solutions, I have been exploring these issues with multiple collaborators using the most disparate tools, including differential geometry, dissipativity theory and monotone operator theory.
 ~~~
 
 
@@ -40,16 +39,20 @@ In a quest towards tractable solutions, I am exploring these issues with multipl
 - [https://sites.google.com/site/rsepulchre/ R. Sepulchre] - KU Leuven and University of Cambridge
 - [https://sites.google.com/site/fulvioforni/ F. Forni] - University of Cambridge 
 - [https://www.tchaffey.com/ T. Chaffey] - University of Sydney 
-- [http://people.ee.ethz.ch/~floriand/ Florian Dörfler] - ETH Zürich
-- [https://control.ee.ethz.ch/people/profile.john-lygeros.html John Lygeros] - ETH Zürich
-- [https://jeremycoulson.github.io/ Jeremy Coulson] - University of Wisconsin-Madison
-- [https://henkvanwaarde.github.io/ Henk van Waarde] - University of Groningen 
+- [http://people.ee.ethz.ch/~floriand/ F. Dörfler] - ETH Zürich
+- [https://control.ee.ethz.ch/people/profile.john-lygeros.html J. Lygeros] - ETH Zürich
+- [https://jeremycoulson.github.io/ J. Coulson] - University of Wisconsin-Madison
+- [https://henkvanwaarde.github.io/ H. J. van Waarde] - University of Groningen 
 - [https://www.ist.uni-stuttgart.de/institute/team/Berberich/ J. Berberich] - University of Stuttgart 
 - [https://www.ist.uni-stuttgart.de/institute/team/Iannelli/ A. Iannelli] - University of Stuttgart  
 - [https://www.uni-stuttgart.de/en/press/experts/Prof.-Frank-Allgoewer/ F. Allgöwer ] - University of Stuttgart
 - [https://ch.linkedin.com/in/carlo-cenedese-711835111 C. Cenedese] - ETH Zürich / TU Delft
-- [https://ch.linkedin.com/in/alessio-rimoldi-340787212 A. Rimoldi] - ETH Zürich 
+- [https://ee.ethz.ch/the-department/people-a-z/person-detail.MzE3OTc4.TGlzdC8zMjc5LC0xNjUwNTg5ODIw.html A. Rimoldi] - ETH Zürich 
 - [https://github.com/michael-cummins M. Cummins] - Imperial College London
 - [https://www.keithmoffat.com/ K. Moffat] - ETH Zürich
 - [https://ee.ethz.ch/the-department/people-a-z/person-detail.MjY0NTMw.TGlzdC8zMjc5LC0xNjUwNTg5ODIw.html A. Sasfi] - ETH Zürich
 - [https://imarkovs.github.io/ I. Markovsky] - ICREA
+- [https://publications.ait.ac.at/en/persons/eder.baron-prada E. Baron-Prada] — AIT
+- [https://at.linkedin.com/in/adolfo-anta-a6a83519 A. Anta] — AIT
+- [https://jaapeising.github.io/ J. Eising] - ETH Zürich 
+- [https://scholar.google.com/citations?user=FuakEycAAAAJ&hl=en Y. Tang] - ETH Zürich 
