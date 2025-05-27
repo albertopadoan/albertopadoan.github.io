@@ -2,8 +2,11 @@
 \n
 
 == Preprints 
-- *A. Padoan*, J. Coulson,  Distances between finite-horizon linear behaviors, L-CSS, accepted.
-- *A. Padoan*, Least squares model reduction: a two-stage system-theoretic interpretation, NOLCOS, accepted.
+- *A. Padoan*, J. Coulson,  Distances between finite-horizon linear behaviors, L-CSS. [https://arxiv.org/abs/2503.22849 arXiv]
+- A. Sasfi, I. Markovsky, *A. Padoan*, F. Dörfler,  Gaussian behaviors: representations and data-driven control, CDC. [https://arxiv.org/abs/2504.15838 arXiv]
+- Y. Tang, C. Cenedese, A. Rimoldi, F. D\"orfler, J. Lygeros, *A. Padoan*, Split-as-a-Pro: behavioral control via operator splitting and alternating projections, ECC. [https://arxiv.org/abs/2505.19411 arXiv]
+- E. Baron-Prada, A. Anta, A. Padoan, F. Dörfler, Mixed Small Gain and Phase Theorem: A new view using Scale Relative Graphs, ECC. [https://arxiv.org/abs/2503.13367 arXiv]
+- *A. Padoan*, Least squares model reduction: a two-stage system-theoretic interpretation, NOLCOS. 
 - A. Sasfi, *A. Padoan*, I. Markovsky, F. Dörfler, Subspace tracking for online system identification, IEEE TAC. [https://arxiv.org/abs/2412.09052 arXiv]
 - M. Cummins, *A. Padoan*, K. Moffat, J. Lygeros, F. Dörfler, DeePC-Hunt: Data-enabled Predictive Control Hyperparameter Tuning via Differentiable Optimization, L4DC. [https://arxiv.org/abs/2412.06481 arXiv] 
 
