@@ -5,7 +5,7 @@
 ~~~
 
 == ELEC 571V.101 – Computational Control (COCO)
-Winter Term, 2025–26. Instructor: Alberto Padoan. Links: [https://www.albertopadoan.com/COCO.html Website] | [https://canvas.ubc.ca/courses/172226 Canvas] | [https://piazza.com/ubc.ca/winterterm12025/ece571101 Piazza].
+Winter Term, 2025–26. Instructor: [https://www.albertopadoan.com/ Alberto Padoan]. Links: [https://www.albertopadoan.com/COCO.html Website] | [https://canvas.ubc.ca/courses/172226 Canvas] | [https://piazza.com/ubc.ca/winterterm12025/ece571101 Piazza].
 
 === Lectures
 Time: Every Monday and Wednesday, 12:30 – 14:00. \n 
@@ -26,7 +26,7 @@ This graduate course offers an introduction to modern computational methods for 
 - Markov Decision Processes (MDPs)  
 - Monte Carlo learning and Reinforcement Learning (RL)  
 
-=== Course Schedule (tentative) & Material
+=== Course Schedule (tentative)
 
 - **Week 1-2**: Introduction and overview; recap of convex optimization  
 - **Week 2-3**: Dynamic programming and linear quadratic optimal control 
@@ -39,6 +39,19 @@ This graduate course offers an introduction to modern computational methods for 
 - **Week 11-12**: Elements of Reinforcement Learning 
 - **Week 12**: Recap week — course projects due  
 - **Week 13**: Wrap-up
+
+=== Material & References
+
+Lecture slides are listed in the Course Schedule above. In addition to the lecture slides, the following are recommended:
+- S. Boyd and L. Vandenberghe, Convex Optimization. Cambridge University Press, 2004.  
+- J.B. Rawlings, D.Q. Mayne, and M. Diehl, Model Predictive Control: Theory, Computation, and Design. 2nd ed., Nob Hill Publishing, 2017.  
+- R.S. Sutton and A.G. Barto, Reinforcement Learning: An Introduction*. 2nd ed., MIT Press, 2018.
+
+=== Prerequisites
+
+- Background in calculus, linear algebra, and control fundamentals is expected.  
+- Prior exposure to convex optimization, linear systems, or Lyapunov theory is helpful but not required.  
+- Familiarity with Python is required (the course project will require the use of Python notebooks). 
 
 === Assessment
 - 10% – Participation (class and Piazza)  
@@ -56,19 +69,6 @@ The project consists of a written report and Python notebook. Students will appl
 - Demonstrate its effectiveness and suitability through simulations and/or a paper-style analysis.
 
 Benchmark problems and simulators will be suggested, but original ideas are welcome.\n
-
-=== Prerequisites
-
-- Background in calculus, linear algebra, and control fundamentals is expected.  
-- Prior exposure to convex optimization, linear systems, or Lyapunov theory is helpful but not required.  
-- Familiarity with Python is required (the course project will require the use of Python notebooks). 
-
-=== References
-
-In addition to the instructor’s lecture slides, the following are recommended:  
-- S. Boyd and L. Vandenberghe, Convex Optimization. Cambridge University Press, 2004.  
-- J.B. Rawlings, D.Q. Mayne, and M. Diehl, Model Predictive Control: Theory, Computation, and Design. 2nd ed., Nob Hill Publishing, 2017.  
-- R.S. Sutton and A.G. Barto, Reinforcement Learning: An Introduction*. 2nd ed., MIT Press, 2018.
 
 === Disclaimers
 
