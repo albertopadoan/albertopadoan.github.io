@@ -30,8 +30,9 @@ I have helped develop an interconnection theory tailored to systems that switch 
 ~~~
 
 == Modelling and approximation of nonlinear dynamical systems
+
 ~~~
-{}{img_left}{manifold.png}{alt text}{320}{251.75}{}
+{}{img_left}{sphere.png}{alt text}{320}{251.75}{}
 
 With the rapid advance of computer and artificial intelligence technologies, mathematical models of dynamical systems are playing an increasingly important role for analysis and design. The need of precision frequently leads to the inclusion of a large number of variables, thus posing a serious obstacle to achieving accurate simulations. Model reduction methods alleviate this issue by constructing simplified models that capture prescribed features of the original system, while system identification methods allow to build these models directly from measured data. 
 
