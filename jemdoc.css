@@ -248,3 +248,37 @@ div.menu-item.sub {
   transition: all .15s ease;
 }
 
+/* ===== Mobile-friendly tweaks ===== */
+@media (max-width: 768px) {
+  /* Stack menu above content */
+  table#tlayout, 
+  table#tlayout tr, 
+  table#tlayout td {
+    display: block;
+    width: 100% !important;
+  }
+
+  /* Menu takes full width on top */
+  #layout-menu {
+    padding: 0.75rem 1rem;
+    background: var(--bg-alt);
+    border-bottom: 1px solid var(--line);
+  }
+
+  /* Content below, full width */
+  #layout-content {
+    padding: 1rem;
+  }
+
+  /* Reduce font size a bit */
+  body {
+    font-size: 15px;
+    line-height: 1.5;
+  }
+
+  /* Images scale well already, but add spacing */
+  img {
+    margin: 0.5rem 0;
+  }
+}
+
