@@ -1,8 +1,31 @@
 Alberto Padoan
-    Home                [index.html]
-    Padoan Lab          [lab.html]
-    Research            [research.html]
-    Publications        [publications.html]
-    inControl           [inControl.html]
-    Talks               [talks.html]
-    Extra               [extra.html]
+    Home                       [home.html]
+    News                       [news.html]
+
+Research
+    Padoan Lab                 [lab.html]
+    Research                   [research.html]
+    Publications               [publications.html]
+    Talks                      [talks.html]
+
+Teaching
+    COCO (571V.101)            [COCO.html]
+    Control seminar (595C.001) [control_seminar.html]
+    Resources                  [resources.html]
+
+Extra
+    inControl                  [inControl.html]
+    About                      [about.html]
+
+
+
+# Old flat menu — kept for reference
+# Alberto Padoan
+#     Home                [index.html]
+#     Padoan Lab          [lab.html]
+#     Research            [research.html]
+#     Publications        [publications.html]
+#     inControl           [inControl.html]
+#     Talks               [talks.html]
+#     Resources           [resources.html]
+#     Extra               [extra.html]

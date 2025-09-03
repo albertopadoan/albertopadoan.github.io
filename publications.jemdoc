@@ -1,7 +1,11 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
-\n
 
-== Preprints 
+~~~
+{}{img_left}{bozhin-karaivanov-uM7V_wf414w-unsplash.jpg}{alt text}{65%}{auto}{}
+~~~
+
+
+=== Preprints 
 - I. Markovsky, J. Eising, *A. Padoan*,  How to represent and identify affine time-invariant systems?, L-CSS, CDC25.
 - *A. Padoan*, J. Coulson,  Distances between finite-horizon linear behaviors, L-CSS, CDC25. [https://arxiv.org/abs/2503.22849 arXiv]
 - A. Sasfi, I. Markovsky, *A. Padoan*, F. Dörfler,  Gaussian behaviors: representations and data-driven control, CDC. [https://arxiv.org/abs/2504.15838 arXiv]
@@ -12,7 +16,7 @@
 - M. Cummins, *A. Padoan*, K. Moffat, J. Lygeros, F. Dörfler, DeePC-Hunt: Data-enabled Predictive Control Hyperparameter Tuning via Differentiable Optimization, L4DC. [https://arxiv.org/abs/2412.06481 arXiv] 
 
 
-== Journal papers
+=== Journal papers
 - *A. Padoan*, Model reduction by least squares moment matching for linear and nonlinear systems, IEEE TAC, 2023. [https://arxiv.org/abs/2110.06072 arXiv] [https://github.com/albertopadoan/LSMR code]
 - *A. Padoan*, F. Forni, R. Sepulchre, Balanced truncation for model reduction of biological oscillators, Biological Cybernetics, 2021. [https://link.springer.com/content/pdf/10.1007/s00422-021-00888-4.pdf PDF]
 - *A. Padoan*, F. Forni, R. Sepulchre, Model reduction of dominant feedback systems, Automatica, 2021. [https://www.dropbox.com/s/bcxwmuzw13umu0z/root.pdf?dl=0 PDF]
@@ -21,7 +25,7 @@
 - *A. Padoan*, G. Scarciotti, A. Astolfi, A geometric characterisation of the persistence of excitation condition for the solutions of autonomous systems, IEEE TAC, 2017. [https://www.dropbox.com/s/4ps3b4ua88bczp6/TAC16%20AP-GS-AA%20-%20paper.pdf?dl=0 PDF]
 - *A. Padoan*, A. Astolfi, A note on delay coordinates for locally observable analytic systems, IEEE TAC, 2015. [https://www.dropbox.com/s/xy20xrwqqjgisu9/TAC16-APAA.pdf?dl=0 PDF]
 
-== Conference papers
+=== Conference papers
 - A. Rimoldi, C. Cenedese, *A. Padoan*, F. Dörfler, J. Lygeros, Urban traffic congestion control: a DeePC change, ECC24. [https://arxiv.org/abs/2311.09851 arXiv]
 - *A. Padoan*, F. Dörfler, J. Lygeros, Data-driven representations of conical, convex, and affine behaviors, CDC23. [http://arxiv.org/abs/2310.15354 arXiv]
 - *A. Padoan*, J. Coulson, F. Dörfler, Controller implementability: a data-driven approach, CDC23. [http://arxiv.org/abs/2310.15347 arXiv]
@@ -45,15 +49,18 @@
 - *A. Padoan*, A. Astolfi, Dimension estimation for autonomous nonlinear systems, CDC, 2015. [https://www.dropbox.com/s/eehfs1hqsc7p488/CDC16-AP-AA-final-printed.pdf?dl=0 PDF]
 - *A. Padoan*, A. Astolfi, Model reduction by moment matching for ZIP systems, CDC, 2014. [https://www.dropbox.com/s/potlg7zuxl0ux7z/CDC15-APAA-final.pdf?dl=0 PDF]
 
-== Ph.D. Thesis
+=== Ph.D. Thesis
 - *A. Padoan*, Geometric methods for modelling and approximation of nonlinear systems, 2017. [https://www.dropbox.com/s/5gj0vdg2v0c7j6n/A-Padoan-PhD-Thesis-2018.pdf?dl=0 PDF]
 
 
 \n
+
 ~~~
 {}{raw}
-<small>
-<b>Disclaimer:</b> This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. Each person copying this information is expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
-</small>
-<br>
+<div style="font-size:85%; color:#555; margin-top:1.5em; border-top:1px solid #ddd; padding-top:0.75em;">
+  <em>Disclaimer: This material is presented to ensure timely dissemination of scholarly and technical work.
+  Copyright and all rights therein are retained by authors or by other copyright holders.
+  All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright.
+  In most cases, these works may not be reposted without the explicit permission of the copyright holder.</em>
+</div>
 ~~~

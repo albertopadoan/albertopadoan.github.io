@@ -1,5 +1,4 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
-\n
 
 ~~~
 {}{img_left}{AP.png}{alt text}{245}{185}{}
@@ -11,7 +10,7 @@ Assistant Professor, [https://ece.ubc.ca/ Department of Electrical & Computer En
 Creator and host of the [https://www.incontrolpodcast.com/ inControl podcast]. 
 
 == Research interests 
-Control theory. Modeling, analysis, and design of dynamical systems, with applications to biological and cyber-physical systems.
+Systems and control theory. Modeling, analysis, and design of dynamical systems, with applications to biological and cyber-physical systems.
 
 == About me
 

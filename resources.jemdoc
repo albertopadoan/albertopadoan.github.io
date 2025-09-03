@@ -1,0 +1,48 @@
+# jemdoc: menu{MENU}{resources.html}, nofooter
+
+~~~
+{}{img_left}{eugenia-ai-QC0UqBmkA_s-unsplash.jpg}{alt text}{50%}{auto}{}
+~~~
+
+A curated reading list on science, research, and writing -- timeless advice, perspective, and inspiration for students and colleagues.\n
+With gratitude to [https://www.control.utoronto.ca/~jwsimpson/stuff.html J. Simpson-Porco], who has thoughtfully assembled a similar collection and provided the inspiration for this page.
+
+=== Science and engineering
+- [https://www.youtube.com/@michaelmcgovern8633/videos Philosophical Psychology] lectures by [https://en.wikipedia.org/wiki/Paul_E._Meehl P. Meehl] (see also B. Recht's [https://www.argmin.net/p/meehls-philosophical-probability commentary]) 
+- [https://www.youtube.com/watch?v=2hhXS6cODQg&list=PLctkxgWNSR89bl7hTOS3F3wuoGj7id3Xy Learning to Learn] lectures by [https://en.wikipedia.org/wiki/Richard_Hamming R. Hamming] 
+- [https://www.youtube.com/@engineeringhistory engineeringhistory] - interviews with legends like [https://www.youtube.com/watch?v=AoUdAQHyd60 B. Anderson], [https://www.youtube.com/watch?v=MPEGNxgpjMU&t=14s&pp=ygUXa2FybCBhc3Ryb21vcmFsIGhpc3RvcnnSBwkJrQkBhyohjO8%3D K. Åström], [https://www.youtube.com/watch?v=QrydaT5zgX4 R. Brockett], [https://www.youtube.com/watch?v=y2KCfIiGWqE C. Desoer], [https://www.youtube.com/watch?v=zqnzNyOBNeE L. Ljung], [https://www.youtube.com/watch?v=NjBIIAt9118 S. Morse], and [https://www.youtube.com/watch?v=8IBZyRo0vDk M. Wonham].
+
+=== Research
+- U. Alon - [https://doi.org/10.1016/j.molcel.2009.09.013 How to Choose a Good Scientific Problem]
+- J. Baez - [http://math.ucr.edu/home/baez/advice.html Advice for the Young Scientist]
+- E. W. Dijkstra - [https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD637.html Three Golden Rules for Research]
+- E. Feron - [http://www.feron.org/Eric/Why_am_I_a_PhD_student.pdf Why do a PhD?] and [http://www.feron.org/Eric/PhD_characterization_2.htm How do you recognize a worthy PhD thesis?]
+- R. Hamming - [hamming_genius.pdf A Stroke of Genius] and [hamming_you_and_your_research.html You and Your Research]
+
+=== Writing and mathematical style
+- S. Boyd - [https://ee263.stanford.edu/notes/matrix_crimes.pdf Crimes Against Matrices]
+- B. Francis - [https://www.control.utoronto.ca/~jwsimpson/documents/francis_handbook.pdf Elements of Mathematical Style]
+- D. Lemire - [https://lemire.me/blog/rules-to-write-a-good-research-paper/ Write Good Papers] ([https://www.slideshare.net/slideshow/write-good-papers/3565727 slides])
+- A. D. Lewis - [http://www.mast.queensu.ca/~andrew/LaTeX/latex-dos-and-donts.pdf LaTeX Do's and Don'ts]
+- P. Halmos - [http://www.amazon.com/How-Write-Mathematics-Steenrod/dp/0821800558 How to write mathematics] (the book contains similar pieces by Dieudonné, Schiffer, and Steenrod)
+- J. Hespanha - [https://web.ece.ucsb.edu/~hespanha/published/writingpapers.pdf Writing a Control Paper]
+- T. Tao - [https://terrytao.wordpress.com/advice-on-writing-papers/ Advice on writing papers]
+
+
+=== Blogs
+- J. Baez - [https://johncarlosbaez.wordpress.com/ Azimuth]
+- N. Higham - [https://nhigham.com/blog/ Blog]
+- M. Raginsky - [https://realizable.substack.com/ The Art of the Realizable]
+- B. Recht - [https://www.argmin.net/ argmin]
+- T. Tao - [https://terrytao.wordpress.com/ What's new]
+
+
+~~~
+{}{raw}
+<div style="font-size:85%; color:#555; margin-top:1.5em; border-top:1px solid #ddd; padding-top:0.75em;">
+  <em>Disclaimer: This material is presented to ensure timely dissemination of scholarly and technical work.
+  Copyright and all rights therein are retained by authors or by other copyright holders.
+  All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright.
+  In most cases, these works may not be reposted without the explicit permission of the copyright holder.</em>
+</div>
+~~~
