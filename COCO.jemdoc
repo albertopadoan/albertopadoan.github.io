@@ -42,7 +42,9 @@ This graduate course offers an introduction to modern computational methods for 
 
 === Material & References
 
-Lecture slides are listed in the Course Schedule above. In addition to the lecture slides, the following are recommended:
+Lecture slides are added to the Course Schedule before each lecture or shortly after.
+
+In addition to the lecture slides, check out the [https://www.albertopadoan.com/resources.html Resources page] and the following references:
 - S. Boyd and L. Vandenberghe, Convex Optimization. Cambridge University Press, 2004.  
 - J.B. Rawlings, D.Q. Mayne, and M. Diehl, Model Predictive Control: Theory, Computation, and Design. 2nd ed., Nob Hill Publishing, 2017.  
 - R.S. Sutton and A.G. Barto, Reinforcement Learning: An Introduction*. 2nd ed., MIT Press, 2018.
