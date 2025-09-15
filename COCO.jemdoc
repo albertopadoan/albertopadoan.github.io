@@ -37,7 +37,7 @@ Students completing this course should be able to:
 
 === Course Schedule (tentative)
 
-- **Week 1-2**: Introduction and overview; recap of convex optimization  
+- **Week 1-2**: Introduction and overview; recap of convex optimization - Slides 
 - **Week 2-3**: Dynamic programming and linear quadratic optimal control 
 - **Weeks 3–5**: Model Predictive Control and variants  
 - **Week 5-6**: Elements of subspace system identification  
@@ -51,7 +51,7 @@ Students completing this course should be able to:
 
 === Material & References
 
-Lecture slides are added to [https://www.dropbox.com/scl/fo/sl9jqurog05anpvg3a3mu/AMjSM7HJWQpj_90FRdfpQg4?rlkey=5zw2zt4dprwy7dui3fxwvwb99&st=llizom6e&dl=0 this Dropbox folder] before each lecture or shortly afterwards.
+All lecture materials — slides, exercises, annotated slides, and notebooks — are available in [https://www.dropbox.com/scl/fo/wxas1ob2cddxjfqakq4sa/AAR7aiQpwySG3zcyvOVkJaQ?rlkey=d6xnaagwoznug7o6s39annhjo&st=sxiymo8e&dl=0 this Dropbox folder]. New materials are added before each lecture or shortly afterwards.
 
 In addition to the lecture slides, check out the [https://www.albertopadoan.com/resources.html Resources page] and the following references:
 - S. Boyd and L. Vandenberghe, Convex Optimization. Cambridge University Press, 2004.  
