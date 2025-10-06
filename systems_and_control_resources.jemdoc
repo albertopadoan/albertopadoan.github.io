@@ -1,0 +1,52 @@
+# jemdoc: nofooter
+\n
+== Systems & Control Resources
+
+A curated list of online materials, libraries, and simulators to explore, model, and experiment with control systems across domains.  
+Most are Python-friendly or have usable APIs, many run headless in Colab.
+
+~~~
+{}{table}{}
+*Name & Link* | *Description* ||
+[https://python-control.readthedocs.io Python Control Library] | Core library for linear system analysis, simulation, and design. ||
+[https://www.cvxpy.org CVXPY] | Convex optimization language for MPC, LQR, and estimation problems. ||
+[https://mujoco.org MuJoCo] | Fast physics engine for robotics and continuous control; Colab-ready. ||
+[https://gymnasium.farama.org Gymnasium (Classic Control)] | Standard benchmark envs (CartPole, Pendulum, MountainCar, etc.). ||
+[https://www.cyberbotics.com Webots] | Open-source multi-robot simulator with Gym wrapper. ||
+[https://microsoft.github.io/AirSim AirSim (Microsoft)] | Photorealistic car and drone simulator (Unreal Engine). ||
+[https://www.eclipse.org/sumo SUMO] | Microscopic traffic simulator with Python `traci` API. ||
+[https://cityflow-project.github.io CityFlow] | Lightweight traffic-light simulator; Colab-friendly. ||
+[https://github.com/eleurent/highway-env Highway-Env] | Simple highway and intersection envs for autonomous driving. ||
+[https://flow-project.github.io Flow (Berkeley)] | RL + SUMO framework for traffic flow control experiments. ||
+[https://pypower.readthedocs.io PyPower] | Power-system load-flow and OPF solver in Python. ||
+[https://pandapower.readthedocs.io Pandapower] | AC/DC power-flow analysis and network optimization. ||
+[https://github.com/do-mpc/do-mpc do-mpc] | MPC framework with process-control demos (CSTR, HVAC). ||
+[https://github.com/youri-vo/teprocess Tennessee Eastman Process] | Benchmark for process control and fault detection. ||
+[https://github.com/ibpsa/project1-boptest BOPTEST] | Building-performance benchmarks for HVAC MPC. ||
+[https://energyplus.net EnergyPlus + Python API] | Building-energy simulation for smart-city control studies. ||
+[https://safety-gymnasium.farama.org Safety Gymnasium] | RL/control environments with safety and constraint handling. ||
+[https://pypi.org/project/PyFMI PyFMI] | Runs FMU-based industrial models through FMI interface. ||
+[https://www.jmodelica.org JModelica.org] | Platform for dynamic-system simulation. ||
+[https://pyroomacoustics.readthedocs.io PyRoomAcoustics] | Acoustic propagation and active-noise-control experiments. ||
+[https://openseespydoc.readthedocs.io OpenSeesPy] | Structural and seismic dynamics simulation for vibration control. ||
+[https://pysph.readthedocs.io PySPH] | Smoothed-particle hydrodynamics for fluid-flow control studies. ||
+[https://dedalus-project.readthedocs.io Dedalus] | PDE-based spectral solver for flow and wave-control research. ||
+[https://oceanparcels.org Parcels] | Ocean-particle simulator for flow or drifter-path control. ||
+[https://mesa.readthedocs.io Mesa] | Agent-based modeling framework (markets, epidemics, logistics). ||
+[https://github.com/abides-sim/abides ABIDES] | Market-microstructure simulator for feedback and regulation studies. ||
+[https://networkx.org NetworkX + Dynamics] | Graph models for consensus, diffusion, and epidemic control. ||
+[https://pettingzoo.farama.org PettingZoo] | Multi-agent RL environments for decentralized control. ||
+[https://www.vadere.org/ Vadere] | Crowd and evacuation simulation for pedestrian-flow control. ||
+[https://simpy.readthedocs.io SimPy] | Discrete-event simulation of queues, logistics, and service systems. ||
+[https://qutip.org QuTiP] | Quantum systems simulation and control of qubits. ||
+[https://github.com/OpenMDAO/dymos Dymos] | Trajectory optimization toolkit for dynamic systems. ||
+[https://lammps.sandia.gov LAMMPS] | Molecular-dynamics simulator with Python interface. ||
+[https://kwave.readthedocs.io K-Wave] | Acoustic wave-field simulator (Python bindings). ||
+[https://matsim.org MATSim] | Agent-based urban mobility simulation (Java + Python API). ||
+[https://supercollider.github.io SuperCollider via Python] | Generative-audio synthesis treated as dynamical-system control. ||
+[https://neuromancer.ai Neuromancer] | Framework for differentiable control and learning-based optimization in PyTorch. ||
+[https://robotarium.gatech.edu Robotarium] | Georgia Tech’s remotely accessible swarm-robot lab — run real experiments online. ||
+[https://pybullet.org PyBullet] | Real-time simulator for drones, manipulators, and quadrupeds. ||
+[https://corticallabs.com Cortical Labs CL1] | Hybrid biological–silicon neural computing platform for embodied control experiments. ||
+~~~
+
