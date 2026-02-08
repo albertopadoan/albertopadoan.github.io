@@ -6,17 +6,27 @@
 
 
 === Preprints 
-- I. Markovsky, J. Eising, *A. Padoan*,  How to represent and identify affine time-invariant systems?, L-CSS, CDC25.
-- *A. Padoan*, J. Coulson,  Distances between finite-horizon linear behaviors, L-CSS, CDC25. [https://arxiv.org/abs/2503.22849 arXiv]
-- A. Sasfi, I. Markovsky, *A. Padoan*, F. Dörfler,  Gaussian behaviors: representations and data-driven control, CDC. [https://arxiv.org/abs/2504.15838 arXiv]
-- E. Baron-Prada, A. Anta, *A. Padoan*, F. Dörfler, Mixed Small Gain and Phase Theorem: A new view using Scale Relative Graphs, ECC. [https://arxiv.org/abs/2503.13367 arXiv]
-- Y. Tang, C. Cenedese, A. Rimoldi, F. Dörfler, J. Lygeros, *A. Padoan*, Split-as-a-Pro: behavioral control via operator splitting and alternating projections, ECC. [https://arxiv.org/abs/2505.19411 arXiv]
-- *A. Padoan*, Least squares model reduction: a two-stage system-theoretic interpretation, NOLCOS. [http://arxiv.org/abs/2505.20604 arXiv]
-- A. Sasfi, *A. Padoan*, I. Markovsky, F. Dörfler, Subspace tracking for online system identification, IEEE TAC. [https://arxiv.org/abs/2412.09052 arXiv]
-- M. Cummins, *A. Padoan*, K. Moffat, J. Lygeros, F. Dörfler, DeePC-Hunt: Data-enabled Predictive Control Hyperparameter Tuning via Differentiable Optimization, L4DC. [https://arxiv.org/abs/2412.06481 arXiv] 
+
+# Philippe's paper
+# Split-as-a-Pro
+# Alessio's paper
+# LS Architectures?
+# Jaap + Lars
+# E. Baron-Prada -> CT vs DT SRGs
+# A. Chiuso
+# Noa + Anastasia - 
+# QDFs 1
+# QDFs 2
+# MROC
+- *A. Padoan*, J. Eising, I. Markovsky - From Time Series to Affine Systems, IEEE TAC. [https://arxiv.org/abs/2503.13367 arXiv]
+- E. Baron-Prada, A. Anta, *A. Padoan*, F. Dörfler, Mixed Small Gain and Phase Theorem: A new view using Scale Relative Graphs. [https://arxiv.org/abs/2503.13367 arXiv]
+- S. Bharadwaj, B. Mishra, C. Mostajeran, *A. Padoan*, J. Coulson, R. Banavar, Robust Least-Squares Optimization for Data-Driven Predictive Control: A Geometric Approach, accepted, L4DC'26. [https://arxiv.org/abs/2511.09242 arXiv]
 
 
 === Journal papers
+- I. Markovsky, J. Eising, *A. Padoan*,  How to represent and identify affine time-invariant systems?, CDC'25 and [https://ieeexplore.ieee.org/document/11036528 L-CSS]. [https://arxiv.org/abs/2503.22849 arXiv]
+- *A. Padoan*, J. Coulson,  Distances between finite-horizon linear behaviors, CDC'25 and [https://ieeexplore.ieee.org/document/11022752 L-CSS]. [https://arxiv.org/abs/2503.22849 arXiv]
+- A. Sasfi, *A. Padoan*, I. Markovsky, F. Dörfler, Subspace tracking for online system identification, IEEE TAC. [https://arxiv.org/abs/2412.09052 arXiv]
 - *A. Padoan*, Model reduction by least squares moment matching for linear and nonlinear systems, IEEE TAC, 2023. [https://arxiv.org/abs/2110.06072 arXiv] [https://github.com/albertopadoan/LSMR code]
 - *A. Padoan*, F. Forni, R. Sepulchre, Balanced truncation for model reduction of biological oscillators, Biological Cybernetics, 2021. [https://link.springer.com/content/pdf/10.1007/s00422-021-00888-4.pdf PDF]
 - *A. Padoan*, F. Forni, R. Sepulchre, Model reduction of dominant feedback systems, Automatica, 2021. [https://www.dropbox.com/s/bcxwmuzw13umu0z/root.pdf?dl=0 PDF]
@@ -26,6 +36,10 @@
 - *A. Padoan*, A. Astolfi, A note on delay coordinates for locally observable analytic systems, IEEE TAC, 2015. [https://www.dropbox.com/s/xy20xrwqqjgisu9/TAC16-APAA.pdf?dl=0 PDF]
 
 === Conference papers
+- A. Sasfi, I. Markovsky, *A. Padoan*, F. Dörfler,  Gaussian behaviors: representations and data-driven control, CDC'25. [https://arxiv.org/abs/2504.15838 arXiv]
+- Y. Tang, C. Cenedese, A. Rimoldi, F. Dörfler, J. Lygeros, *A. Padoan*, Split-as-a-Pro: behavioral control via operator splitting and alternating projections, ECC'25. [https://arxiv.org/abs/2505.19411 arXiv]
+- *A. Padoan*, Least squares model reduction: a two-stage system-theoretic interpretation, NOLCOS'25. [http://arxiv.org/abs/2505.20604 arXiv]
+- M. Cummins, *A. Padoan*, K. Moffat, J. Lygeros, F. Dörfler, DeePC-Hunt: Data-enabled Predictive Control Hyperparameter Tuning via Differentiable Optimization, L4DC. [https://arxiv.org/abs/2412.06481 arXiv] [https://github.com/michael-cummins/DeePC-HUNT code]
 - A. Rimoldi, C. Cenedese, *A. Padoan*, F. Dörfler, J. Lygeros, Urban traffic congestion control: a DeePC change, ECC24. [https://arxiv.org/abs/2311.09851 arXiv]
 - *A. Padoan*, F. Dörfler, J. Lygeros, Data-driven representations of conical, convex, and affine behaviors, CDC23. [http://arxiv.org/abs/2310.15354 arXiv]
 - *A. Padoan*, J. Coulson, F. Dörfler, Controller implementability: a data-driven approach, CDC23. [http://arxiv.org/abs/2310.15347 arXiv]
