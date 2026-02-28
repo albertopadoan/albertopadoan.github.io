@@ -9,7 +9,8 @@
 
 == Data-driven control
 ~~~
-{}{img_left}{data.png}{alt text}{320}{251.75}{}
+{}{img_left}{congested.gif}{}{320}{auto}{}
+# {}{img_left}{data.png}{alt text}{320}{251.75}{}
 
 How can we design reliable decisions directly from data, without committing to fragile parametric models?
 
