@@ -9,7 +9,6 @@
 
 # Philippe's paper
 # Split-as-a-Pro
-# Alessio's paper
 # LS Architectures?
 # Jaap + Lars
 # E. Baron-Prada -> CT vs DT SRGs
@@ -18,11 +17,11 @@
 # QDFs 2
 # MROC
 
+- A. Rimoldi, C. Cenedese, *A. Padoan*, F. Dörfler, J. Lygeros  Data-driven generalized perimeter control: Zürich case study, Transportation Research Part C. [https://arxiv.org/pdf/2602.13654 arXiv]
 - H. van Waarde, J. Coulson, *A. Padoan*, From time series to dissipativity of linear systems with dynamic supply rates, SCL. [https://arxiv.org/pdf/2602.13654 arXiv]
 - E. Baron-Prada, A. Anta, *A. Padoan*, F. Dörfler, Mixed Small Gain and Phase Theorem: A new view using Scale Relative Graphs. [https://arxiv.org/abs/2503.13367 arXiv]
-- *A. Padoan*, J. Eising, I. Markovsky - From Time Series to Affine Systems, IEEE TAC. [https://arxiv.org/abs/2503.13367 arXiv]
+- *A. Padoan*, J. Eising, I. Markovsky, From Time Series to Affine Systems, IEEE TAC. [https://arxiv.org/abs/2503.13367 arXiv]
 - S. Bharadwaj, B. Mishra, C. Mostajeran, *A. Padoan*, J. Coulson, R. Banavar, Robust Least-Squares Optimization for Data-Driven Predictive Control: A Geometric Approach, accepted, L4DC'26. [https://arxiv.org/abs/2511.09242 arXiv]
-
 
 === Journal papers
 - I. Markovsky, J. Eising, *A. Padoan*,  How to represent and identify affine time-invariant systems?, CDC'25 and [https://ieeexplore.ieee.org/document/11036528 L-CSS]. [https://arxiv.org/abs/2503.22849 arXiv]
