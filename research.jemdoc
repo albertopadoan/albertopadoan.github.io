@@ -11,22 +11,23 @@
 ~~~
 {}{img_left}{data.png}{alt text}{320}{251.75}{}
 
-Learning, adapting, and inferring decisions directly from data is a fundamental problem in science and engineering. 
+How can we design reliable decisions directly from data, without committing to fragile parametric models?
 
-The advent of large data sets, improved computational resources and the ongoing AI revolution have recently triggered a renewed appreciation for data-driven approaches to the problem, where classical models are replaced by system behaviors. 
+The increasing availability of large-scale data, real-time sensing, and computational power has revived a fundamental question in control: can we replace explicit models with representations of system behavior?
 
-I am currently delving into the universe of data-driven control through the lens of geometry, optimization, and behavioral system theory. 
+My recent work explores data-driven control through geometry, optimization, and behavioral systems theory. Bypassing parametric model identification, one can design predictive and decentralized controllers directly from data while retaining formal guarantees.
+
 ~~~
 
-== Dominance theory
+== Complex non-equilibrium behaviors
 ~~~
 {}{img_left}{dominance.png}{alt text}{320}{251.75}{}
 
 Robustness is a foundational concept in control engineering: a behavior is robust if it persists under the effect of exogenous perturbations or parametric uncertainty. 
 
-While robust stabilization of equilibria is well-understood, the design of robust non-equilibrium behaviors still lacks tractable tools—despite their ubiquity in physics, biology, and robotics.
+While robust stabilization of equilibria is well understood, the systematic design of robust non-equilibrium behaviors remains far less developed — despite their ubiquity in physics, biology, robotics, and networked systems.
 
-I have helped develop an interconnection theory tailored to systems that switch or oscillate, showing that such behaviors can be designed using classical frequency-domain and convex optimization techniques.
+My work advances a theory of interconnection for systems that operate far from equilibrium, making non-equilibrium behavior amenable to systematic design through control and optimization.
 ~~~
 
 == Modelling and approximation of nonlinear dynamical systems
@@ -34,9 +35,11 @@ I have helped develop an interconnection theory tailored to systems that switch 
 ~~~
 {}{img_left}{sphere.png}{alt text}{320}{251.75}{}
 
-With the rapid advance of computer and artificial intelligence technologies, mathematical models of dynamical systems are playing an increasingly important role for analysis and design. The need of precision frequently leads to the inclusion of a large number of variables, thus posing a serious obstacle to achieving accurate simulations. Model reduction methods alleviate this issue by constructing simplified models that capture prescribed features of the original system, while system identification methods allow to build these models directly from measured data. 
+With the rapid advance of computation and artificial intelligence, mathematical models of dynamical systems play an increasingly central role in analysis and design. Yet higher fidelity often comes at the price of high dimensionality, making simulation, control, and interpretation difficult.
 
-In a quest towards tractable solutions, I have been exploring these issues with multiple collaborators using the most disparate tools, including differential geometry, dissipativity theory and monotone operator theory.
+Model reduction and system identification address this tension: the former by simplifying while preserving structure, the latter by building models directly from data.
+
+My work investigates these questions through geometric and systems-theoretic methods, seeking scalable and structure-preserving representations that retain stability and robustness.
 ~~~
 
 
