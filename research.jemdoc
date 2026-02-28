@@ -9,7 +9,7 @@
 
 == Data-driven control
 ~~~
-{}{img_left}{congested.gif}{}{320}{auto}{}
+{}{img_left}{congested.gif}{}{420}{auto}{}
 # {}{img_left}{data.png}{alt text}{320}{251.75}{}
 
 How can we design reliable decisions directly from data, without committing to fragile parametric models?
@@ -22,7 +22,8 @@ My recent work explores data-driven control through geometry, optimization, and 
 
 == Complex non-equilibrium behaviors
 ~~~
-{}{img_left}{dominance.png}{alt text}{320}{251.75}{}
+{}{img_left}{dominance.png}{}{450}{auto}{}
+#{}{img_left}{dominance.png}{alt text}{320}{251.75}{}
 
 Robustness is a foundational concept in control engineering: a behavior is robust if it persists under the effect of exogenous perturbations or parametric uncertainty. 
 
@@ -31,10 +32,11 @@ While robust stabilization of equilibria is well understood, the systematic desi
 My work advances a theory of interconnection for systems that operate far from equilibrium, making non-equilibrium behavior amenable to systematic design through control and optimization.
 ~~~
 
-== Modelling and approximation of nonlinear dynamical systems
+== Modelling and approximation of nonlinear systems
 
 ~~~
-{}{img_left}{sphere.png}{alt text}{320}{251.75}{}
+{}{img_left}{sphere.png}{}{450}{auto}{}
+#{}{img_left}{sphere.png}{alt text}{320}{251.75}{}
 
 With the rapid advance of computation and artificial intelligence, mathematical models of dynamical systems play an increasingly central role in analysis and design. Yet higher fidelity often comes at the price of high dimensionality, making simulation, control, and interpretation difficult.
 
