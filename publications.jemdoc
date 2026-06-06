@@ -17,17 +17,17 @@
 # MROC
 
 - N. Kaplan, *A. Padoan*, A. Bizyaeva,  On Dominant Manifolds in Reservoir Computing Networks, CDC'26. [https://arxiv.org/abs/2604.05967 arXiv]
-- *A. Padoan*,  Scaled Relative Graphs in Normed Spaces, CDC'26. [https://arxiv.org/pdf/2604.02407 arXiv]
+- *A. Padoan*,  Scaled Relative Graphs in Normed Spaces, CDC'26. [https://arxiv.org/abs/2604.02407 arXiv]
 - L. P. Wieringa, *A. Padoan*, F. Dorfler, J. Eising,  Stability, Contraction, and Controllers for Affine Systems, CDC'26. [https://arxiv.org/abs/2604.01070 arXiv]
 - S. Bharadwaj, B. Mishra, C. Mostajeran, *A. Padoan*, J. Coulson, R. Banavar, Min-Max Grassmannian Optimization for Online Subspace Tracking, CDC'26. [https://arxiv.org/abs/2604.00825 arXiv]
 - A. Rimoldi, C. Cenedese, *A. Padoan*, F. Dörfler, J. Lygeros,  Data-driven generalized perimeter control: Zürich case study, TRC. [https://arxiv.org/abs/2603.16599 arXiv]
 - H. van Waarde, J. Coulson, *A. Padoan*, From time series to dissipativity of linear systems with dynamic supply rates, SCL. [https://arxiv.org/pdf/2602.13654 arXiv]
 - E. Baron-Prada, A. Anta, *A. Padoan*, F. Dörfler, Mixed Small Gain and Phase Theorem: A new view using Scale Relative Graphs. [https://arxiv.org/abs/2503.13367 arXiv]
-- *A. Padoan*, J. Eising, I. Markovsky, From Time Series to Affine Systems, IEEE TAC. [https://arxiv.org/abs/2503.13367 arXiv]
-- S. Bharadwaj, B. Mishra, C. Mostajeran, *A. Padoan*, J. Coulson, R. Banavar, Robust Least-Squares Optimization for Data-Driven Predictive Control: A Geometric Approach, accepted, L4DC'26. [https://arxiv.org/abs/2511.09242 arXiv]
+- *A. Padoan*, J. Eising, I. Markovsky, From Time Series to Affine Systems, IEEE TAC. [https://arxiv.org/abs/2510.22089 arXiv]
+
 
 === Journal papers
-- I. Markovsky, J. Eising, *A. Padoan*,  How to represent and identify affine time-invariant systems?, CDC'25 and [https://ieeexplore.ieee.org/document/11036528 L-CSS]. [https://arxiv.org/abs/2503.22849 arXiv]
+- I. Markovsky, J. Eising, *A. Padoan*,  How to represent and identify affine time-invariant systems?, CDC'25 and [https://ieeexplore.ieee.org/document/11036528 L-CSS]. 
 - *A. Padoan*, J. Coulson,  Distances between finite-horizon linear behaviors, CDC'25 and [https://ieeexplore.ieee.org/document/11022752 L-CSS]. [https://arxiv.org/abs/2503.22849 arXiv]
 - A. Sasfi, *A. Padoan*, I. Markovsky, F. Dörfler, Subspace tracking for online system identification, IEEE TAC. [https://arxiv.org/abs/2412.09052 arXiv]
 - *A. Padoan*, Model reduction by least squares moment matching for linear and nonlinear systems, IEEE TAC, 2023. [https://arxiv.org/abs/2110.06072 arXiv] [https://github.com/albertopadoan/LSMR code]
@@ -39,6 +39,7 @@
 - *A. Padoan*, A. Astolfi, A note on delay coordinates for locally observable analytic systems, IEEE TAC, 2015. [https://www.dropbox.com/s/xy20xrwqqjgisu9/TAC16-APAA.pdf?dl=0 PDF]
 
 === Conference papers
+- S. Bharadwaj, B. Mishra, C. Mostajeran, *A. Padoan*, J. Coulson, R. Banavar, Robust Least-Squares Optimization for Data-Driven Predictive Control: A Geometric Approach, accepted, L4DC'26. [https://arxiv.org/abs/2511.09242 arXiv]
 - A. Sasfi, I. Markovsky, *A. Padoan*, F. Dörfler,  Gaussian behaviors: representations and data-driven control, CDC'25. [https://arxiv.org/abs/2504.15838 arXiv]
 - Y. Tang, C. Cenedese, A. Rimoldi, F. Dörfler, J. Lygeros, *A. Padoan*, Split-as-a-Pro: behavioral control via operator splitting and alternating projections, ECC'25. [https://arxiv.org/abs/2505.19411 arXiv]
 - *A. Padoan*, Least squares model reduction: a two-stage system-theoretic interpretation, NOLCOS'25. [http://arxiv.org/abs/2505.20604 arXiv]
@@ -51,9 +52,9 @@
 - *A. Padoan*, J. Coulson, H. J. van Waarde, J. Lygeros, F. Dörfler, Behavioral uncertainty quantification for data-driven control, CDC22. [https://arxiv.org/abs/2204.02671 arXiv]
 - *A. Padoan*, On model reduction by least squares moment matching, CDC, 2021. [https://arxiv.org/abs/2109.11869 arXiv] [https://github.com/albertopadoan/LSMR code]
 - *A. Padoan*, F. Forni, R. Sepulchre, Model reduction by balanced truncation for dominant Lure systems, IFAC, 2020.  [https://arxiv.org/abs/2005.08241 arXiv]
-- *A. Padoan*, F. Forni, R. Sepulchre, The $\mathcal{H}_{\infty,p}$ norm as the differential gain of a $p$-dominant system, CDC, 2019. [https://arxiv.org/abs/1909.12202 arXiv]
+- *A. Padoan*, F. Forni, R. Sepulchre, The \( \mathcal{H}_{\infty,p} \) norm as the differential gain of a \( p \)-dominant system, CDC, 2019. [https://arxiv.org/abs/1909.12202 arXiv]
 - *A. Padoan*, F. Forni, R. Sepulchre, Dominance margins for feedback systems, NOLCOS, 2019. [https://arxiv.org/abs/1905.13170 arXiv]
-- *A. Padoan*, A. Astolfi, On the notion of moment at a pole of a nonlinear system, MTNS, 2018. [https://www.dropbox.com/s/j845bvgfkor5100/MTNS18-APAA-final.pdf?dl=0 arXiv]
+- *A. Padoan*, A. Astolfi, On the notion of moment at a pole of a nonlinear system, MTNS, 2018. [https://www.dropbox.com/s/j845bvgfkor5100/MTNS18-APAA-final.pdf?dl=0 PDF]
 - *A. Padoan*, A. Astolfi, Dimension estimation for nonlinear systems, ECC, 2018. [https://www.dropbox.com/s/xstzlim9n5qif21/0136.pdf?dl=0 PDF]
 - *A. Padoan*, A. Astolfi, Eigenvalues and poles of a nonlinear system: A geometric approach, CDC, 2017. [https://www.dropbox.com/s/874mfeuoktzwhk1/CDC17-APAA-EIG-final.pdf?dl=0 PDF]
 - *A. Padoan*, A. Astolfi, Model reduction by moment matching at isolated singularities for linear systems: A geometric approach, CDC, 2017. [https://www.dropbox.com/s/0rsvalvdz00mxtt/CDC17-APAA-MRP-final.pdf?dl=0 PDF]
