@@ -1,0 +1,293 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title></title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Alberto Padoan</div>
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="news.html">News</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="lab.html">Padoan&nbsp;Lab</a></div>
+<div class="menu-item"><a href="research.html">Research</a></div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-item"><a href="talks.html">Talks</a></div>
+<div class="menu-category">Teaching</div>
+<div class="menu-item"><a href="opt.html" class="current">Optimization</a></div>
+<div class="menu-item"><a href="COCO.html">COCO</a></div>
+<div class="menu-item"><a href="control_seminar.html">Control&nbsp;seminar</a></div>
+<div class="menu-item"><a href="resources.html">Resources</a></div>
+<div class="menu-category">Extra</div>
+<div class="menu-item"><a href="inControl.html">inControl</a></div>
+<div class="menu-item"><a href="about.html">About</a></div>
+</td>
+<td id="layout-content">
+<table class="imgtable"><tr><td>
+<img src="opt_logo.png" alt="alt text" width="45%" height="auto" />&nbsp;</td>
+<td align="left"></td></tr></table>
+<h2>Introduction to Optimization for Engineers &ndash; ELEC 400O | MECH 410Q | MECH 540G</h2>
+<p>Winter Term, 2026&ndash;27. Instructors: <a href="https://www.albertopadoan.com/" target=&ldquo;blank&rdquo;>Alberto Padoan</a> and <a href="https://mech.ubc.ca/dominic-liao-mcpherson/" target=&ldquo;blank&rdquo;>Dominic Liao-McPherson</a>. <br />
+Links: <a href="https://www.albertopadoan.com/opt.html" target=&ldquo;blank&rdquo;>Website</a> | <a href="https://piazza.com/class/mte4yit32nf6rr" target=&ldquo;blank&rdquo;>Piazza</a> | <a href="https://canvas.ubc.ca/courses/202936" target=&ldquo;blank&rdquo;>Canvas 400O</a>, <a href="https://canvas.ubc.ca/courses/202961" target=&ldquo;blank&rdquo;>Canvas 41OQ</a>, <a href="https://canvas.ubc.ca/courses/202961" target=&ldquo;blank&rdquo;>Canvas 540G</a>.
+</p>
+<h3>Lectures</h3>
+<p>Time: Every Tuesday and Thursday, 11:00 &ndash; 12:30. <br />
+Room: <a href="https://learningspaces.ubc.ca/classrooms/gwhb-4290/" target=&ldquo;blank&rdquo;>UBCV | Gateway Health Building (GWHB) | Floor 4 | Room 4290</a>
+</p>
+<h3>Tutorials</h3>
+<p>Time: Every Wednesday, 15:00 &ndash; 16:00. <br />
+Room: <a href="https://learningspaces.ubc.ca/classrooms/dmp-310/" target=&ldquo;blank&rdquo;>UBCV | Hugh Dempster Pavilion (DMP) | Floor 3 | Room 310</a> <br />
+
+</p>
+<h3>Office Hours</h3>
+<p>Primarily via <a href="https://piazza.com/class/mte4yit32nf6rr" target=&ldquo;blank&rdquo;>Piazza</a>. Alternatively, after lectures by appointment via written email.
+</p>
+<h3>Credits</h3>
+<p>Units: 3 (ELEC 400O, MECH 410Q) and 4 (MECH 540G). Letter grade.
+</p>
+<h3>Course Description</h3>
+<p>This course is an introduction to optimization for engineers, with an emphasis on algorithms: how they are derived, why they converge, and how they behave on real problems. Topics include:
+</p>
+<ul>
+<li><p>Mathematical background: linear algebra, conditioning, and multivariable calculus
+</p>
+</li>
+<li><p>Formulating and reformulating engineering problems as optimization problems
+</p>
+</li>
+<li><p>Optimality conditions, unconstrained and constrained, and the Karush–Kuhn–Tucker (KKT) conditions
+</p>
+</li>
+<li><p>Duality and sensitivity
+</p>
+</li>
+<li><p>Algorithms: gradient descent, line search, Newton and damped Newton, projected gradient, interior-point methods, and sequential quadratic programming
+</p>
+</li>
+<li><p>Trajectory optimization as a closing application
+</p>
+</li>
+</ul>
+<h3>Learning Objectives</h3>
+<p>Students completing this course should be able to:
+</p>
+<ul>
+<li><p>Recognise the class an optimization problem belongs to, and formulate an engineering problem into standard form
+</p>
+</li>
+<li><p>State the optimality conditions appropriate to a problem, and use them to certify or reject a candidate solution
+</p>
+</li>
+<li><p>Derive the KKT conditions and interpret multipliers as sensitivities
+</p>
+</li>
+<li><p>Derive the main algorithms of the course and explain the assumptions each one needs
+</p>
+</li>
+<li><p>Implement gradient descent, Newton's method, and a projection-based method, and diagnose their failure modes
+</p>
+</li>
+<li><p>Explain how conditioning and numerical error affect the behaviour of an optimization algorithm
+</p>
+</li>
+<li><p>Use an off-the-shelf solver competently and interpret what it reports
+</p>
+</li>
+</ul>
+<h3>Course Schedule</h3>
+<p><b>Mathematical foundations</b>
+</p>
+<ul>
+<li><p>Introduction: what optimization is for, logistics
+</p>
+</li>
+<li><p>Sets, vectors, matrices, norms
+</p>
+</li>
+<li><p>Eigenvalues, spectral decomposition, the SVD, conditioning
+</p>
+</li>
+<li><p>Multivariable calculus, Taylor expansion, Newton's method for rootfinding
+</p>
+</li>
+</ul>
+<p><b>Unconstrained optimization: theory</b> 
+</p>
+<ul>
+<li><p>Standard form, feasible sets, minimisers; LP, QP and conic programs
+</p>
+</li>
+<li><p>Modelling and problem manipulation, with engineering examples
+</p>
+</li>
+<li><p>First-order necessary conditions
+</p>
+</li>
+<li><p>Second-order necessary and sufficient conditions
+</p>
+</li>
+<li><p>Convexity and global optimality
+</p>
+</li>
+</ul>
+<p><b>Unconstrained optimization: algorithms</b> 
+</p>
+<ul>
+<li><p>Gradient descent and its convergence
+</p>
+</li>
+<li><p>Line search, backtracking, convergence rates
+</p>
+</li>
+<li><p>Newton's method and damped Newton
+</p>
+</li>
+<li><p>Projected gradient descent
+</p>
+</li>
+</ul>
+<p><b>Midterm 1</b> &ndash; Thursday, October 22, 2026 (tentative), in person (during regular class hours).
+</p>
+<p><b>Constrained optimization: theory</b> 
+</p>
+<ul>
+<li><p>Feasible-set geometry: active sets, tangent and normal cones
+</p>
+</li>
+<li><p>Constraint qualifications and the KKT conditions
+</p>
+</li>
+<li><p>Second-order sufficiency and sensitivity
+</p>
+</li>
+<li><p>Duality
+</p>
+</li>
+</ul>
+<p><b>Constrained optimization: algorithms</b> 
+</p>
+<ul>
+<li><p>Penalties, barriers, and interior-point methods
+</p>
+</li>
+<li><p>Projected Newton
+</p>
+</li>
+</ul>
+<p><b>Midterm 2</b> &ndash; Thursday, November 26, 2026 (tentative), in person (during regular class hours).
+</p>
+<p><b>Bonus topics</b> 
+</p>
+<ul>
+<li><p>Sequential quadratic programming
+</p>
+</li>
+<li><p>Trajectory optimization
+</p>
+</li>
+</ul>
+<p><b>No classes</b>: 30 September (National Day for Truth and Reconciliation), and 10-11 November (midterm break and Remembrance Day). 
+</p>
+<h3>Material &amp; References</h3>
+<p>Course notes and problem sets are distributed through <a href="https://canvas.ubc.ca/courses/" target=&ldquo;blank&rdquo;>Canvas</a>. New material is posted before each lecture or shortly afterwards.
+</p>
+<ul>
+<li><p>J. Nocedal and S. J. Wright, <i>Numerical Optimization</i>. 2nd ed., Springer, 2006.
+</p>
+</li>
+<li><p>S. Boyd and L. Vandenberghe, <i>Convex Optimization</i>. Cambridge University Press, 2004. (optional)
+</p>
+</li>
+<li><p>D. P. Bertsekas, <i>Nonlinear Programming</i>. 3rd ed., Athena Scientific, 2016. (optional)
+</p>
+</li>
+</ul>
+<p>See also the <a href="https://www.albertopadoan.com/resources.html" target=&ldquo;blank&rdquo;>Resources page</a>.
+</p>
+<h3>Prerequisites</h3>
+<ul>
+<li><p>Linear algebra and multivariable calculus at the level of a second-year engineering course.
+</p>
+</li>
+<li><p>Familiarity with programming (needed for both tutorials and final project).
+</p>
+</li>
+<li><p>No prior exposure to optimization is assumed.
+</p>
+</li>
+</ul>
+<h3>Assessment</h3>
+<p><b>ELEC 400-O and MECH 410-Q</b>
+</p>
+<ul>
+<li><p>35% &ndash; Midterm 1 
+</p>
+</li>
+<li><p>35% &ndash; Midterm 2 
+</p>
+</li>
+<li><p>30% &ndash; Final project 
+</p>
+</li>
+</ul>
+<p><b>MECH 540-G</b>
+</p>
+<ul>
+<li><p>30% &ndash; Midterm 1 
+</p>
+</li>
+<li><p>30% &ndash; Midterm 2 
+</p>
+</li>
+<li><p>30% &ndash; Final project 
+</p>
+</li>
+<li><p>10% &ndash; Research presentation (last 2 weeks of lectures)
+</p>
+</li>
+</ul>
+<p><b>Note</b>: Use of generative AI is permitted as a tool. However, all submitted work must reflect the student’s own understanding. Work primarily generated by AI will receive a grade of zero.
+</p>
+<h3>Final Project</h3>
+<p>A short research-style report and a runnable Python notebook, taking one method from the course further than the lectures do. Main idea: identify a problem for which standard formulations or off-the-shelf algorithms fall short, develop a formulation or algorithm based on material from the course, and demonstrate its effectiveness through numerical experiments, theoretical analysis, or both. Groups of two are preferred.
+</p>
+<p>Benchmark problems may be suggested by the instructors, but original topics are especially welcome.
+</p>
+<p><b>Timeline</b>
+</p>
+<ul>
+<li><p><b>Topic proposal</b> &ndash; 20 October, one paragraph
+</p>
+</li>
+<li><p><b>Project talks</b> &ndash; From 18 November, during the tutorial hour
+</p>
+</li>
+<li><p><b>Report and notebook</b> &ndash; due 4 December, 16:00
+</p>
+</li>
+</ul>
+<h3>Late policy</h3>
+<p>Deadlines are firm. Late work or missed assessments will not be graded, consistent with the <a href="https://vancouver.calendar.ubc.ca/campus-wide-policies-and-regulations/grading-practices" target=&ldquo;blank&rdquo;>Academic Calendar on Grading Practices</a>.
+</p>
+<h3>Disclaimers</h3>
+<p>Lectures and course materials, including presentations, tests, outlines, and similar materials, are licensed under a
+<a href="https://creativecommons.org/licenses/by-sa/4.0/" target=&ldquo;blank&rdquo;>Creative Commons Attribution-ShareAlike 4.0 International License</a>. <br />
+</p>
+<p>This is not an official course webpage from UBC; it is maintained personally by the instructors. This being the inaugural run, please anticipate occasional hiccups. Thank you for your flexibility as we refine the experience.
+</p>
+<h3>Feedback</h3>
+<p>If you have suggestions or found the material useful, we would be happy to hear from you. Please use: <br />
+alberto [DOT] padoan [@] ubc [DOT] ca <br />
+dliaomcp [@] mech [DOT] ubc [DOT] ca
+</p>
+</td>
+</tr>
+</table>
+</body>
+</html>

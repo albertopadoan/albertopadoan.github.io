@@ -1,0 +1,154 @@
+# jemdoc: menu{MENU}{opt.html}, nofooter
+# ---------------------------------------------------------------------------
+# ELEC 400-O / MECH 410-Q / MECH 540-G - Introduction to Optimization for Engineers
+# Winter Term, 2026-27. Drafted 2026-08-25.
+# ---------------------------------------------------------------------------
+
+~~~
+{}{img_left}{opt_logo.png}{alt text}{45%}{auto}{}
+~~~
+
+== Introduction to Optimization for Engineers -- ELEC 400O | MECH 410Q | MECH 540G
+Winter Term, 2026--27. Instructors: [https://www.albertopadoan.com/ Alberto Padoan] and [https://mech.ubc.ca/dominic-liao-mcpherson/ Dominic Liao-McPherson]. \n
+Links: [https://www.albertopadoan.com/opt.html Website] | [https://piazza.com/class/mte4yit32nf6rr Piazza] | [https://canvas.ubc.ca/courses/202936 Canvas 400O], [https://canvas.ubc.ca/courses/202961 Canvas 41OQ], [https://canvas.ubc.ca/courses/202961 Canvas 540G].
+
+=== Lectures
+Time: Every Tuesday and Thursday, 11:00 -- 12:30. \n
+Room: [https://learningspaces.ubc.ca/classrooms/gwhb-4290/ UBCV | Gateway Health Building (GWHB) | Floor 4 | Room 4290]
+
+=== Tutorials
+Time: Every Wednesday, 15:00 -- 16:00. \n
+Room: [https://learningspaces.ubc.ca/classrooms/dmp-310/ UBCV | Hugh Dempster Pavilion (DMP) | Floor 3 | Room 310] \n
+#Tutorials are run by the teaching assistant and alternate between pen-and-paper problem sessions and computational sessions in which algorithms from the lectures are implemented and tested.
+
+=== Office Hours
+Primarily via [https://piazza.com/class/mte4yit32nf6rr Piazza]. Alternatively, after lectures by appointment via written email.
+
+=== Credits
+Units: 3 (ELEC 400O, MECH 410Q) and 4 (MECH 540G). Letter grade.
+
+=== Course Description
+
+This course is an introduction to optimization for engineers, with an emphasis on algorithms: how they are derived, why they converge, and how they behave on real problems. Topics include:
+
+- Mathematical background: linear algebra, conditioning, and multivariable calculus
+- Formulating and reformulating engineering problems as optimization problems
+- Optimality conditions, unconstrained and constrained, and the Karush–Kuhn–Tucker (KKT) conditions
+- Duality and sensitivity
+- Algorithms: gradient descent, line search, Newton and damped Newton, projected gradient, interior-point methods, and sequential quadratic programming
+- Trajectory optimization as a closing application
+
+=== Learning Objectives
+
+Students completing this course should be able to:
+
+- Recognise the class an optimization problem belongs to, and formulate an engineering problem into standard form
+- State the optimality conditions appropriate to a problem, and use them to certify or reject a candidate solution
+- Derive the KKT conditions and interpret multipliers as sensitivities
+- Derive the main algorithms of the course and explain the assumptions each one needs
+- Implement gradient descent, Newton's method, and a projection-based method, and diagnose their failure modes
+- Explain how conditioning and numerical error affect the behaviour of an optimization algorithm
+- Use an off-the-shelf solver competently and interpret what it reports
+
+=== Course Schedule
+
+*Mathematical foundations*
+- Introduction: what optimization is for, logistics
+- Sets, vectors, matrices, norms
+- Eigenvalues, spectral decomposition, the SVD, conditioning
+- Multivariable calculus, Taylor expansion, Newton's method for rootfinding
+
+*Unconstrained optimization: theory* 
+- Standard form, feasible sets, minimisers; LP, QP and conic programs
+- Modelling and problem manipulation, with engineering examples
+- First-order necessary conditions
+- Second-order necessary and sufficient conditions
+- Convexity and global optimality
+
+*Unconstrained optimization: algorithms* 
+- Gradient descent and its convergence
+- Line search, backtracking, convergence rates
+- Newton's method and damped Newton
+- Projected gradient descent
+
+
+*Midterm 1* -- Thursday, October 22, 2026 (tentative), in person (during regular class hours).
+
+
+*Constrained optimization: theory* 
+- Feasible-set geometry: active sets, tangent and normal cones
+- Constraint qualifications and the KKT conditions
+- Second-order sufficiency and sensitivity
+- Duality
+
+*Constrained optimization: algorithms* 
+- Penalties, barriers, and interior-point methods
+- Projected Newton
+
+*Midterm 2* -- Thursday, November 26, 2026 (tentative), in person (during regular class hours).
+
+*Bonus topics* 
+- Sequential quadratic programming
+- Trajectory optimization
+
+*No classes*: 30 September (National Day for Truth and Reconciliation), and 10-11 November (midterm break and Remembrance Day). 
+
+=== Material & References
+
+Course notes and problem sets are distributed through [https://canvas.ubc.ca/courses/ Canvas]. New material is posted before each lecture or shortly afterwards.
+
+- J. Nocedal and S. J. Wright, /Numerical Optimization/. 2nd ed., Springer, 2006.
+- S. Boyd and L. Vandenberghe, /Convex Optimization/. Cambridge University Press, 2004. (optional)
+- D. P. Bertsekas, /Nonlinear Programming/. 3rd ed., Athena Scientific, 2016. (optional)
+
+See also the [https://www.albertopadoan.com/resources.html Resources page].
+
+=== Prerequisites
+
+# TODO: replace the three bullets with the official course prerequisite
+
+- Linear algebra and multivariable calculus at the level of a second-year engineering course.
+- Familiarity with programming (needed for both tutorials and final project).
+- No prior exposure to optimization is assumed.
+
+=== Assessment
+
+*ELEC 400-O and MECH 410-Q*
+- 35% -- Midterm 1 
+- 35% -- Midterm 2 
+- 30% -- Final project 
+
+*MECH 540-G*
+- 30% -- Midterm 1 
+- 30% -- Midterm 2 
+- 30% -- Final project 
+- 10% -- Research presentation (last 2 weeks of lectures)
+
+*Note*: Use of generative AI is permitted as a tool. However, all submitted work must reflect the student’s own understanding. Work primarily generated by AI will receive a grade of zero.
+
+=== Final Project
+A short research-style report and a runnable Python notebook, taking one method from the course further than the lectures do. Main idea: identify a problem for which standard formulations or off-the-shelf algorithms fall short, develop a formulation or algorithm based on material from the course, and demonstrate its effectiveness through numerical experiments, theoretical analysis, or both. Groups of two are preferred.
+ 
+Benchmark problems may be suggested by the instructors, but original topics are especially welcome.
+
+*Timeline*
+- *Topic proposal* -- 20 October, one paragraph
+- *Project talks* -- From 18 November, during the tutorial hour
+- *Report and notebook* -- due 4 December, 16:00
+
+=== Late policy
+
+Deadlines are firm. Late work or missed assessments will not be graded, consistent with the [https://vancouver.calendar.ubc.ca/campus-wide-policies-and-regulations/grading-practices Academic Calendar on Grading Practices].
+
+=== Disclaimers
+
+Lectures and course materials, including presentations, tests, outlines, and similar materials, are licensed under a
+[https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike 4.0 International License]. \n
+
+This is not an official course webpage from UBC; it is maintained personally by the instructors. This being the inaugural run, please anticipate occasional hiccups. Thank you for your flexibility as we refine the experience.
+
+=== Feedback
+
+If you have suggestions or found the material useful, we would be happy to hear from you. Please use: \n
+alberto \[DOT\] padoan \[@\] ubc \[DOT\] ca \n
+dliaomcp \[@\] mech \[DOT\] ubc \[DOT\] ca
