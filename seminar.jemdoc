@@ -1,0 +1,71 @@
+# jemdoc: menu{MENU}{seminar.html}, nofooter
+
+~~~
+{}{img_left}{andrej-lisakov-bghmzALo194-unsplash.jpg}{alt text}{55%}{auto}{}
+~~~
+
+== EECE 571C.001 – Autonomous Systems and Robotics Seminar
+Winter Session, 2026–27. Instructor: [https://www.albertopadoan.com/ Alberto Padoan]. Links: [https://www.albertopadoan.com/seminar.html Website] | [https://canvas.ubc.ca/courses/205881 Canvas]. \n 
+Organizers: [https://www.albertopadoan.com/ Alberto Padoan], [https://www.cyrusneary.com/ Cyrus Neary], [https://mech.ubc.ca/dominic-liao-mcpherson/ Dominic Liao-McPherson]. 
+
+=== Lectures
+Time: Every Thursday, 17:00 – 18:00. \n
+Room: [https://learningspaces.ubc.ca/classrooms/swng-109/ UBCV | West Mall Swing Space Building (SWNG) | Floor: 1 | Room: 109]. \n
+Term 1 runs from September 10 to December 3, 2026. Term 2 runs from January 7 to April 8, 2027, with no session during the midterm break (February 15–19, 2027).
+
+=== Office Hours
+Students are encouraged to discuss questions during seminar sessions. Alternatively, after lectures by appointment via written email. 
+
+=== Credits
+Units: 2. Full-year seminar course.  
+
+=== Course Description
+The course is designed to bring together graduate students and faculty in the control systems area. It provides a forum for presenting research, practicing talks, and learning about new ideas. The format includes:  
+
+- Invited speakers (1–2 per term)  
+- Faculty presentations (1–2 per term)  
+- Student presentations (each student presents roughly once per year)  
+
+=== Learning Objectives
+By the end of the course, students should be able to:
+
+- Communicate research by preparing and delivering a seminar presentation to a technical audience.
+- Engage with peer research through constructive questions and discussion.
+- Gain exposure to developments in control theory and related fields from invited speakers, faculty, and peers.
+- Develop presentation skills by practicing the delivery of technical talks.
+- Contribute to a scholarly community by attending, discussing, and learning from diverse perspectives in control systems.
+
+=== Course Schedule
+Seminar topics will vary based on presenters and invited speakers. The seminar schedule is available [https://ubcca-my.sharepoint.com/:x:/g/personal/alberto_padoan_ubc_ca/IQBRrb1cUGkPQ4EBT5jGb7TUAfFYuYTe0FalbqLMMdSuKng?e=EKVKb1 here] (UBC account required).
+# Replace SCHEDULE_LINK above with the OneDrive/SharePoint share link for "2627 EECE 571C Autonomous Systems and Robotics Seminar.xlsx".
+
+Typical sessions include:  
+
+- Presentations of ongoing PhD/MASc research projects  
+- Tutorials on emerging methods in control theory  
+- Talks by invited external speakers from academia and industry  
+
+=== Material & References
+This is a seminar course; no required textbook. Relevant references will be provided by presenters.  
+
+=== Prerequisites
+
+No formal prerequisites. Open to all graduate students with interest in systems and control theory.  
+
+=== Assessment
+- 100% – Seminar participation and presentation(s).  
+
+Participation includes:  
+- Attending weekly sessions  
+- Asking constructive questions  
+- Delivering at least one presentation during the year  
+
+
+=== Disclaimers
+This is not an official course webpage from UBC; it is maintained personally by the organizers.
+
+=== Feedback
+We welcome suggestions and feedback. Please contact one of the organizers:  
+- [https://www.albertopadoan.com/ Alberto Padoan] | alberto \[DOT\] padoan \[@\] ubc \[DOT\] ca
+- [https://www.cyrusneary.com/ Cyrus Neary]    |  cyrus \[DOT\] neary \[@\] ubc \[DOT\] ca
+- [https://mech.ubc.ca/dominic-liao-mcpherson/ Dominic Liao-McPherson] | dliaomcp  \[@\] mech \[DOT\] ubc \[DOT\] ca
