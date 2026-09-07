@@ -34,7 +34,7 @@
 <td align="left"></td></tr></table>
 <h2>Introduction to Optimization for Engineers &ndash; ELEC 400O | MECH 410Q | MECH 540G</h2>
 <p>Winter Term, 2026&ndash;27. Instructors: <a href="https://www.albertopadoan.com/" target=&ldquo;blank&rdquo;>Alberto Padoan</a> and <a href="https://mech.ubc.ca/dominic-liao-mcpherson/" target=&ldquo;blank&rdquo;>Dominic Liao-McPherson</a>. <br />
-Links: <a href="https://www.albertopadoan.com/opt.html" target=&ldquo;blank&rdquo;>Website</a> | <a href="https://piazza.com/class/mte4yit32nf6rr" target=&ldquo;blank&rdquo;>Piazza</a> | <a href="https://canvas.ubc.ca/courses/202936" target=&ldquo;blank&rdquo;>Canvas 400O</a>, <a href="https://canvas.ubc.ca/courses/202961" target=&ldquo;blank&rdquo;>Canvas 41OQ</a>, <a href="https://canvas.ubc.ca/courses/202961" target=&ldquo;blank&rdquo;>Canvas 540G</a>.
+Links: <a href="https://www.albertopadoan.com/opt.html" target=&ldquo;blank&rdquo;>Website</a> | <a href="https://piazza.com/class/mte4yit32nf6rr" target=&ldquo;blank&rdquo;>Piazza</a> | <a href="https://canvas.ubc.ca/courses/202936" target=&ldquo;blank&rdquo;>Canvas 400O</a>, <a href="https://canvas.ubc.ca/courses/202961" target=&ldquo;blank&rdquo;>Canvas 41OQ</a>, <a href="https://canvas.ubc.ca/courses/202923" target=&ldquo;blank&rdquo;>Canvas 540G</a>.
 </p>
 <h3>Lectures</h3>
 <p>Time: Every Tuesday and Thursday, 11:00 &ndash; 12:30. <br />
@@ -61,16 +61,10 @@ Room: <a href="https://learningspaces.ubc.ca/classrooms/dmp-310/" target=&ldquo;
 <li><p>Formulating and reformulating engineering problems as optimization problems
 </p>
 </li>
-<li><p>Optimality conditions, unconstrained and constrained, and the Karush–Kuhn–Tucker (KKT) conditions
-</p>
-</li>
-<li><p>Duality and sensitivity
+<li><p>Optimality conditions (unconstrained and constrained), duality, and sensitivity
 </p>
 </li>
 <li><p>Algorithms: gradient descent, line search, Newton and damped Newton, projected gradient, interior-point methods, and sequential quadratic programming
-</p>
-</li>
-<li><p>Trajectory optimization as a closing application
 </p>
 </li>
 </ul>
@@ -78,124 +72,62 @@ Room: <a href="https://learningspaces.ubc.ca/classrooms/dmp-310/" target=&ldquo;
 <p>Students completing this course should be able to:
 </p>
 <ul>
-<li><p>Recognise the class an optimization problem belongs to, and formulate an engineering problem into standard form
+<li><p>Recognise the class an optimization problem belongs to, and turn an engineering problem into mathematical optimization problem
 </p>
 </li>
 <li><p>State the optimality conditions appropriate to a problem, and use them to certify or reject a candidate solution
 </p>
 </li>
-<li><p>Derive the KKT conditions and interpret multipliers as sensitivities
-</p>
-</li>
 <li><p>Derive the main algorithms of the course and explain the assumptions each one needs
 </p>
 </li>
-<li><p>Implement gradient descent, Newton's method, and a projection-based method, and diagnose their failure modes
+<li><p>Implement basic optimization algorithms, and diagnose their failure modes
 </p>
 </li>
-<li><p>Explain how conditioning and numerical error affect the behaviour of an optimization algorithm
+<li><p>Explain how conditioning and numerical errors affect the behaviour of an optimization algorithm
 </p>
 </li>
 <li><p>Use an off-the-shelf solver competently and interpret what it reports
 </p>
 </li>
 </ul>
-<h3>Course Schedule</h3>
-<p><b>Mathematical foundations</b>
-</p>
+<h3>Course Schedule (<u>tentative</u>)</h3>
 <ul>
-<li><p>Introduction: what optimization is for, logistics
+<li><p><b>Week 1</b>: Introduction
 </p>
 </li>
-<li><p>Sets, vectors, matrices, norms
+<li><p><b>Week 2-3</b>: Mathematical foundations 
 </p>
 </li>
-<li><p>Eigenvalues, spectral decomposition, the SVD, conditioning
+<li><p><b>Week 4</b>: Optimization problems: overview and modelling
 </p>
 </li>
-<li><p>Multivariable calculus, Taylor expansion, Newton's method for rootfinding
+<li><p><b>Week 5-7</b>: Unconstrained optimization: theory and algorithms
+</p>
+</li>
+<li><p><b>Week 8-12</b>: Constrained optimization: theory and algorithms
+</p>
+</li>
+<li><p><b>Week 12-13</b>: Bonus topics / Final project presentations
 </p>
 </li>
 </ul>
-<p><b>Unconstrained optimization: theory</b> 
+<p><b>No classes</b>: 30 September (National Day for Truth and Reconciliation), and 10-11 November (midterm break and Remembrance Day). 15-18 September (instructor away), and <u>possibly</u> 9-16 October (instructor <u>possibly</u> away).
 </p>
+<h3>Midterms</h3>
 <ul>
-<li><p>Standard form, feasible sets, minimisers; LP, QP and conic programs
+<li><p><b>Midterm 1</b> &ndash; Thursday, 22 October 2026 (<u>tentative</u>), in person (during regular class hours).
 </p>
 </li>
-<li><p>Modelling and problem manipulation, with engineering examples
-</p>
-</li>
-<li><p>First-order necessary conditions
-</p>
-</li>
-<li><p>Second-order necessary and sufficient conditions
-</p>
-</li>
-<li><p>Convexity and global optimality
+<li><p><b>Midterm 2</b> &ndash; Thursday, 26 November 2026 (<u>tentative</u>), in person (during regular class hours).
 </p>
 </li>
 </ul>
-<p><b>Unconstrained optimization: algorithms</b> 
-</p>
-<ul>
-<li><p>Gradient descent and its convergence
-</p>
-</li>
-<li><p>Line search, backtracking, convergence rates
-</p>
-</li>
-<li><p>Newton's method and damped Newton
-</p>
-</li>
-<li><p>Projected gradient descent
-</p>
-</li>
-</ul>
-<p><b>Midterm 1</b> &ndash; Thursday, October 22, 2026 (tentative), in person (during regular class hours).
-</p>
-<p><b>Constrained optimization: theory</b> 
-</p>
-<ul>
-<li><p>Feasible-set geometry: active sets, tangent and normal cones
-</p>
-</li>
-<li><p>Constraint qualifications and the KKT conditions
-</p>
-</li>
-<li><p>Second-order sufficiency and sensitivity
-</p>
-</li>
-<li><p>Duality
-</p>
-</li>
-</ul>
-<p><b>Constrained optimization: algorithms</b> 
-</p>
-<ul>
-<li><p>Penalties, barriers, and interior-point methods
-</p>
-</li>
-<li><p>Projected Newton
-</p>
-</li>
-</ul>
-<p><b>Midterm 2</b> &ndash; Thursday, November 26, 2026 (tentative), in person (during regular class hours).
-</p>
-<p><b>Bonus topics</b> 
-</p>
-<ul>
-<li><p>Sequential quadratic programming
-</p>
-</li>
-<li><p>Trajectory optimization
-</p>
-</li>
-</ul>
-<p><b>No classes</b>: 30 September (National Day for Truth and Reconciliation), and 10-11 November (midterm break and Remembrance Day). 
+<h3>Project Presentations</h3>
+<p>Project presentations are <u>tentatively</u> scheduled for 18 and 25 November and 2 December, during the regular Wednesday tutorial hour.
 </p>
 <h3>Material &amp; References</h3>
-<p>Course notes and problem sets are distributed through <a href="https://canvas.ubc.ca/courses/" target=&ldquo;blank&rdquo;>Canvas</a>. New material is posted before each lecture or shortly afterwards.
+<p>All lecture materials — slides, annotated slides, exercises, and notebooks — are available in <a href="https://www.dropbox.com/scl/fo/zgzbwp2s87ujgxdn27r80/ALPxBv9N3kF8u05kH__CbLM?rlkey=p0aplx43mai7638jvuw1fz5hg&amp;st=0wjdc9mw&amp;dl=0" target=&ldquo;blank&rdquo;>this online folder</a>. New materials are added before each lecture or shortly afterwards.
 </p>
 <ul>
 <li><p>J. Nocedal and S. J. Wright, <i>Numerical Optimization</i>. 2nd ed., Springer, 2006.
@@ -272,14 +204,16 @@ Room: <a href="https://learningspaces.ubc.ca/classrooms/dmp-310/" target=&ldquo;
 </p>
 </li>
 </ul>
+<p>Full details, including the report and presentation rubrics and the academic concession policy, are in the <a href="https://www.dropbox.com/scl/fo/7gq3ffzgsju3okvb5zzwu/AMq_q86wT8NTOvRB5HdMGhU?rlkey=0a9emrp7cc0l2qz379pssyy1b&amp;st=aks196wt&amp;dl=0" target=&ldquo;blank&rdquo;>Grading Policy</a>.
+</p>
 <h3>Late policy</h3>
-<p>Deadlines are firm. Late work or missed assessments will not be graded, consistent with the <a href="https://vancouver.calendar.ubc.ca/campus-wide-policies-and-regulations/grading-practices" target=&ldquo;blank&rdquo;>Academic Calendar on Grading Practices</a>.
+<p>Deadlines are firm — late work or missed assessments will not be graded, consistent with the <a href="https://vancouver.calendar.ubc.ca/campus-wide-policies-and-regulations/grading-practices" target=&ldquo;blank&rdquo;>Academic Calendar on Grading Practices</a>. If illness or compassionate grounds prevent you from sitting a midterm or meeting the project deadline, contact the instructor in writing as early as possible; requests are handled under the UBC policy on <a href="https://vancouver.calendar.ubc.ca/campus-wide-policies-and-regulations/academic-concession" target=&ldquo;blank&rdquo;>academic concession</a>.
 </p>
 <h3>Disclaimers</h3>
 <p>Lectures and course materials, including presentations, tests, outlines, and similar materials, are licensed under a
 <a href="https://creativecommons.org/licenses/by-sa/4.0/" target=&ldquo;blank&rdquo;>Creative Commons Attribution-ShareAlike 4.0 International License</a>. <br />
 </p>
-<p>This is not an official course webpage from UBC; it is maintained personally by the instructors. This being the inaugural run, please anticipate occasional hiccups. Thank you for your flexibility as we refine the experience.
+<p>This is not an official course webpage from UBC, and it is maintained personally by the instructors. This being the inaugural run, please anticipate occasional hiccups. Thank you for your flexibility as we refine the experience.
 </p>
 <h3>Feedback</h3>
 <p>If you have suggestions or found the material useful, we would be happy to hear from you. Please use: <br />

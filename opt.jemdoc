@@ -10,7 +10,7 @@
 
 == Introduction to Optimization for Engineers -- ELEC 400O | MECH 410Q | MECH 540G
 Winter Term, 2026--27. Instructors: [https://www.albertopadoan.com/ Alberto Padoan] and [https://mech.ubc.ca/dominic-liao-mcpherson/ Dominic Liao-McPherson]. \n
-Links: [https://www.albertopadoan.com/opt.html Website] | [https://piazza.com/class/mte4yit32nf6rr Piazza] | [https://canvas.ubc.ca/courses/202936 Canvas 400O], [https://canvas.ubc.ca/courses/202961 Canvas 41OQ], [https://canvas.ubc.ca/courses/202961 Canvas 540G].
+Links: [https://www.albertopadoan.com/opt.html Website] | [https://piazza.com/class/mte4yit32nf6rr Piazza] | [https://canvas.ubc.ca/courses/202936 Canvas 400O], [https://canvas.ubc.ca/courses/202961 Canvas 41OQ], [https://canvas.ubc.ca/courses/202923 Canvas 540G].
 
 === Lectures
 Time: Every Tuesday and Thursday, 11:00 -- 12:30. \n
@@ -33,69 +33,46 @@ This course is an introduction to optimization for engineers, with an emphasis o
 
 - Mathematical background: linear algebra, conditioning, and multivariable calculus
 - Formulating and reformulating engineering problems as optimization problems
-- Optimality conditions, unconstrained and constrained, and the Karush–Kuhn–Tucker (KKT) conditions
-- Duality and sensitivity
+- Optimality conditions (unconstrained and constrained), duality, and sensitivity
 - Algorithms: gradient descent, line search, Newton and damped Newton, projected gradient, interior-point methods, and sequential quadratic programming
-- Trajectory optimization as a closing application
 
 === Learning Objectives
 
 Students completing this course should be able to:
 
-- Recognise the class an optimization problem belongs to, and formulate an engineering problem into standard form
+- Recognise the class an optimization problem belongs to, and turn an engineering problem into mathematical optimization problem
 - State the optimality conditions appropriate to a problem, and use them to certify or reject a candidate solution
-- Derive the KKT conditions and interpret multipliers as sensitivities
 - Derive the main algorithms of the course and explain the assumptions each one needs
-- Implement gradient descent, Newton's method, and a projection-based method, and diagnose their failure modes
-- Explain how conditioning and numerical error affect the behaviour of an optimization algorithm
+- Implement basic optimization algorithms, and diagnose their failure modes
+- Explain how conditioning and numerical errors affect the behaviour of an optimization algorithm
 - Use an off-the-shelf solver competently and interpret what it reports
 
-=== Course Schedule
 
-*Mathematical foundations*
-- Introduction: what optimization is for, logistics
-- Sets, vectors, matrices, norms
-- Eigenvalues, spectral decomposition, the SVD, conditioning
-- Multivariable calculus, Taylor expansion, Newton's method for rootfinding
+=== Course Schedule (_tentative_)
 
-*Unconstrained optimization: theory* 
-- Standard form, feasible sets, minimisers; LP, QP and conic programs
-- Modelling and problem manipulation, with engineering examples
-- First-order necessary conditions
-- Second-order necessary and sufficient conditions
-- Convexity and global optimality
+- *Week 1*: Introduction
+- *Week 2-3*: Mathematical foundations 
+- *Week 4*: Optimization problems: overview and modelling
+- *Week 5-7*: Unconstrained optimization: theory and algorithms
+- *Week 8-12*: Constrained optimization: theory and algorithms
+- *Week 12-13*: Bonus topics / Final project presentations
 
-*Unconstrained optimization: algorithms* 
-- Gradient descent and its convergence
-- Line search, backtracking, convergence rates
-- Newton's method and damped Newton
-- Projected gradient descent
+*No classes*: 30 September (National Day for Truth and Reconciliation), and 10-11 November (midterm break and Remembrance Day). 15-18 September (instructor away), and _possibly_ 9-16 October (instructor _possibly_ away).
+
+=== Midterms
+
+- *Midterm 1* -- Thursday, 22 October 2026 (_tentative_), in person (during regular class hours).
+- *Midterm 2* -- Thursday, 26 November 2026 (_tentative_), in person (during regular class hours).
 
 
-*Midterm 1* -- Thursday, October 22, 2026 (tentative), in person (during regular class hours).
+=== Project Presentations
 
+Project presentations are _tentatively_ scheduled for 18 and 25 November and 2 December, during the regular Wednesday tutorial hour.
 
-*Constrained optimization: theory* 
-- Feasible-set geometry: active sets, tangent and normal cones
-- Constraint qualifications and the KKT conditions
-- Second-order sufficiency and sensitivity
-- Duality
-
-*Constrained optimization: algorithms* 
-- Penalties, barriers, and interior-point methods
-- Projected Newton
-
-*Midterm 2* -- Thursday, November 26, 2026 (tentative), in person (during regular class hours).
-
-*Bonus topics* 
-- Sequential quadratic programming
-- Trajectory optimization
-
-*No classes*: 30 September (National Day for Truth and Reconciliation), and 10-11 November (midterm break and Remembrance Day). 
 
 === Material & References
 
-Course notes and problem sets are distributed through [https://canvas.ubc.ca/courses/ Canvas]. New material is posted before each lecture or shortly afterwards.
+All lecture materials — slides, annotated slides, exercises, and notebooks — are available in [https://www.dropbox.com/scl/fo/zgzbwp2s87ujgxdn27r80/ALPxBv9N3kF8u05kH__CbLM?rlkey=p0aplx43mai7638jvuw1fz5hg&st=0wjdc9mw&dl=0 this online folder]. New materials are added before each lecture or shortly afterwards.
 
 - J. Nocedal and S. J. Wright, /Numerical Optimization/. 2nd ed., Springer, 2006.
 - S. Boyd and L. Vandenberghe, /Convex Optimization/. Cambridge University Press, 2004. (optional)
@@ -105,7 +82,7 @@ See also the [https://www.albertopadoan.com/resources.html Resources page].
 
 === Prerequisites
 
-# TODO: replace the three bullets with the official course prerequisite
+# TODO: replace the three bullets with the official course prerequisite?
 
 - Linear algebra and multivariable calculus at the level of a second-year engineering course.
 - Familiarity with programming (needed for both tutorials and final project).
@@ -136,16 +113,19 @@ Benchmark problems may be suggested by the instructors, but original topics are 
 - *Project talks* -- From 18 November, during the tutorial hour
 - *Report and notebook* -- due 4 December, 16:00
 
+Full details, including the report and presentation rubrics and the academic concession policy, are in the [https://www.dropbox.com/scl/fo/7gq3ffzgsju3okvb5zzwu/AMq_q86wT8NTOvRB5HdMGhU?rlkey=0a9emrp7cc0l2qz379pssyy1b&st=aks196wt&dl=0 Grading Policy].
+
 === Late policy
 
-Deadlines are firm. Late work or missed assessments will not be graded, consistent with the [https://vancouver.calendar.ubc.ca/campus-wide-policies-and-regulations/grading-practices Academic Calendar on Grading Practices].
+Deadlines are firm — late work or missed assessments will not be graded, consistent with the [https://vancouver.calendar.ubc.ca/campus-wide-policies-and-regulations/grading-practices Academic Calendar on Grading Practices]. If illness or compassionate grounds prevent you from sitting a midterm or meeting the project deadline, contact the instructor in writing as early as possible; requests are handled under the UBC policy on [https://vancouver.calendar.ubc.ca/campus-wide-policies-and-regulations/academic-concession academic concession].
+
 
 === Disclaimers
 
 Lectures and course materials, including presentations, tests, outlines, and similar materials, are licensed under a
 [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike 4.0 International License]. \n
 
-This is not an official course webpage from UBC; it is maintained personally by the instructors. This being the inaugural run, please anticipate occasional hiccups. Thank you for your flexibility as we refine the experience.
+This is not an official course webpage from UBC, and it is maintained personally by the instructors. This being the inaugural run, please anticipate occasional hiccups. Thank you for your flexibility as we refine the experience.
 
 === Feedback
 
