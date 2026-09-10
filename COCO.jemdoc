@@ -74,11 +74,11 @@ In addition to the lecture slides, check out the [https://www.albertopadoan.com/
 
 === Prerequisites
 
-* Basic mathematical language: sets, functions, quantifiers, and basic logic.
-* Multivariable calculus: gradients, Jacobians, Hessians, and Taylor expansions.
-* Linear algebra: vectors and matrices, rank and null spaces, inner products and norms, eigenvalues, diagonalization, and quadratic forms.
-* Control fundamentals: state-space models, block diagrams and feedback interconnections, and stability of continuous- and discrete-time LTI systems.
-* Python notebooks, including basic matrix computations and plotting.
+- Basic mathematical language: sets, functions, quantifiers, and basic logic.
+- Multivariable calculus: gradients, Jacobians, Hessians, and Taylor expansions.
+- Linear algebra: vectors and matrices, rank and null spaces, inner products and norms, eigenvalues, diagonalization, and quadratic forms.
+- Control fundamentals: state-space models, block diagrams and feedback interconnections, and stability of continuous- and discrete-time LTI systems.
+- Python notebooks, including basic matrix computations and plotting.
 
 Prior exposure to convex optimization or Lyapunov theory is helpful but not required.
 
