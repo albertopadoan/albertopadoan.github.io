@@ -67,11 +67,20 @@ In addition to the lecture slides, check out the [https://www.albertopadoan.com/
 - J.B. Rawlings, D.Q. Mayne, and M. Diehl, /Model Predictive Control: Theory, Computation, and Design/. 2nd ed., Nob Hill Publishing, 2017.
 - R.S. Sutton and A.G. Barto, /Reinforcement Learning: An Introduction/. 2nd ed., MIT Press, 2018. (optional)
 
+#=== Prerequisites
+#- Background in calculus, linear algebra, and control fundamentals is expected.
+#- Prior exposure to convex optimization, linear systems, or Lyapunov theory is helpful but not required.
+#- Familiarity with Python (the course project will require the use of Python notebooks).
+
 === Prerequisites
 
-- Background in calculus, linear algebra, and control fundamentals is expected.
-- Prior exposure to convex optimization, linear systems, or Lyapunov theory is helpful but not required.
-- Familiarity with Python (the course project will require the use of Python notebooks).
+* Basic mathematical language: sets, functions, quantifiers, and basic logic.
+* Multivariable calculus: gradients, Jacobians, Hessians, and Taylor expansions.
+* Linear algebra: vectors and matrices, rank and null spaces, inner products and norms, eigenvalues, diagonalization, and quadratic forms.
+* Control fundamentals: state-space models, block diagrams and feedback interconnections, and stability of continuous- and discrete-time LTI systems.
+* Python notebooks, including basic matrix computations and plotting.
+
+Prior exposure to convex optimization or Lyapunov theory is helpful but not required.
 
 === Assessment
 - 30% – Midterm 1 (in class, closed book) — 4 November 2026
