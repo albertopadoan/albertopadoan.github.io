@@ -51,7 +51,7 @@
 - *A. Padoan*, J. Coulson, H. J. van Waarde, J. Lygeros, F. Dörfler, Behavioral uncertainty quantification for data-driven control, CDC22. [https://arxiv.org/abs/2204.02671 arXiv]
 - *A. Padoan*, On model reduction by least squares moment matching, CDC, 2021. [https://arxiv.org/abs/2109.11869 arXiv] [https://github.com/albertopadoan/LSMR code]
 - *A. Padoan*, F. Forni, R. Sepulchre, Model reduction by balanced truncation for dominant Lure systems, IFAC, 2020.  [https://arxiv.org/abs/2005.08241 arXiv]
-- *A. Padoan*, F. Forni, R. Sepulchre, The \( \mathcal{H}_{\infty,p} \) norm as the differential gain of a \( p \)-dominant system, CDC, 2019. [https://arxiv.org/abs/1909.12202 arXiv]
+- *A. Padoan*, F. Forni, R. Sepulchre, The H∞,p norm as the differential gain of a p-dominant system, CDC, 2019. [https://arxiv.org/abs/1909.12202 arXiv]
 - *A. Padoan*, F. Forni, R. Sepulchre, Dominance margins for feedback systems, NOLCOS, 2019. [https://arxiv.org/abs/1905.13170 arXiv]
 - *A. Padoan*, A. Astolfi, On the notion of moment at a pole of a nonlinear system, MTNS, 2018. [https://www.dropbox.com/s/j845bvgfkor5100/MTNS18-APAA-final.pdf?dl=0 PDF]
 - *A. Padoan*, A. Astolfi, Dimension estimation for nonlinear systems, ECC, 2018. [https://www.dropbox.com/s/xstzlim9n5qif21/0136.pdf?dl=0 PDF]
