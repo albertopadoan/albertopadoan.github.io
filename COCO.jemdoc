@@ -82,14 +82,19 @@ In addition to the lecture slides, check out the [https://www.albertopadoan.com/
 
 Prior exposure to convex optimization or Lyapunov theory is helpful but not required.
 
+#=== Assessment
+#- 30% – Midterm 1 (in class, closed book) — 4 November 2026
+#- 30% – Midterm 2 (in class, closed book) — 30 November 2026
+#- 40% – Course project
+#  -- 25% – Written report (mini-paper) and Python notebook — due 9 December 2026, 16:00
+#  -- 15% – Project presentation — 2 or 7 December 2026
+
 === Assessment
 - 30% – Midterm 1 (in class, closed book) — 4 November 2026
-- 30% – Midterm 2 (in class, closed book) — 30 November 2026
-- 40% – Course project
-  -- 25% – Written report (mini-paper) and Python notebook — due 9 December 2026, 16:00
-  -- 15% – Project presentation — 2 or 7 December 2026
+- 30% – Midterm 2 (in class, closed book) — 30 November 2026 (_tentative_; see Midterms above)
+- 40% – Course project: written report (mini-paper) and accompanying runnable Python notebook or MATLAB Live Script — due 9 December 2026, 16:00
 
-There is *no final examination*. Exercise handouts are issued regularly, and full solutions are released afterwards. They are *neither collected nor graded*. Working them is your own responsibility, and the midterms are written on the assumption that you have.
+There is *no final examination*. Exercise handouts are issued regularly, and full solutions are released afterwards. They are *neither collected nor graded*. Working them is your own responsibility, and the midterms are written on the assumption that you have. There is *no project presentation*. The full project mark is based on the written report and accompanying code.
 
 Full details, including the report and presentation rubrics and the academic concession policy, are in the [https://www.dropbox.com/scl/fo/e97p5734a1mqxkq65bpft/AEzn705gdw03cs493OztCeI?rlkey=2xsfpx9hrwwi148ipa4d9lg4y&st=0bxedu6l&dl=0 Grading Policy].
 
@@ -105,7 +110,7 @@ Groups of two are preferred. Benchmark problems and simulators are suggested [ht
 
 *Timeline*
 - *Topic proposal*: 19 October, one paragraph, ungraded but required.
-- *Presentations*: 2 and 7 December, in class, in person (during regular class hours). 
+#- *Presentations*: 2 and 7 December, in class, in person (during regular class hours). 
 - *Report and notebook*: due 9 December, 16:00.
 
 === Late policy
