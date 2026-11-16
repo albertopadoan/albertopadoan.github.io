@@ -46,15 +46,15 @@ Students completing this course should be able to:
 - *Week 9*: Subspace identification
 - *Weeks 10-11*: Data-driven predictive control 
 - *Weeks 12*: Behavioral system theory
-- *Week 13*: Bonus topics / Wrap-up / Course project presentations
+- *Week 13*: Bonus topics / Wrap-up 
  #Markov decision processes, Monte Carlo learning, and reinforcement learning
 
 *No classes*: 30 September (National Day for Truth and Reconciliation), 12 October (Thanksgiving), 9 and 11 November (midterm break and Remembrance Day). No lecture on 16 September and 14 October (instructor away).
 
 === Midterms
 
-- *Midterm 1* -- Wednesday, 4 November 2026 (_tentative_), in person (during regular class hours). 
-- *Midterm 2* -- Monday, 30 November 2026 (_tentative_), in person (during regular class hours). 
+- *Midterm 1* -- Wednesday, 4 November 2026, in person (during regular class hours). 
+- *Midterm 2* -- Wednesday, 2 December 2026, in person (during regular class hours). 
 
 One page, double-sided, hand-written cheat sheet is allowed; calculators are not. *There is no final examination.*
 
@@ -91,7 +91,7 @@ Prior exposure to convex optimization or Lyapunov theory is helpful but not requ
 
 === Assessment
 - 30% – Midterm 1 (in class, closed book) — 4 November 2026
-- 30% – Midterm 2 (in class, closed book) — 30 November 2026 (_tentative_; see Midterms above)
+- 30% – Midterm 2 (in class, closed book) — 2 December 2026 
 - 40% – Course project: written report (mini-paper) and accompanying runnable Python notebook or MATLAB Live Script — due 9 December 2026, 16:00
 
 There is *no final examination*. Exercise handouts are issued regularly, and full solutions are released afterwards. They are *neither collected nor graded*. Working them is your own responsibility, and the midterms are written on the assumption that you have. There is *no project presentation*. The full project mark is based on the written report and accompanying code.
